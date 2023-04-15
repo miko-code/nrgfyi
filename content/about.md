@@ -22,5 +22,6 @@ In 2017 , Ofer joined Viridity Energy Solutions, a subsidiary of Ormat, as their
 
 Since 2022 , Ofer has been acting as the CFO of Doral Europe , leading the financial and operational needs of the company in Europe.  
 
-The purpose of NRG.fyi is to bring interesting information about the energy transition, technology innovations, policies, market structure and more , and to create a platform for discussions and brainstorming.
+NRG.FYI  created to be a place where energy stake holders (consumers, developers, financiers, off-takers and more) can join and use ideas and thoughts about the energy transition process, its innovations , news and developments.
 
+**All opinions and other content in the blog should be seen as a recommendation for investment or any other action.**

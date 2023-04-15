@@ -1,108 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Jane - A super concise theme for Hugo</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Jane - A super concise theme for Hugo</description>
+    <title>Tags on NRG.fyi interesting information about the energy transition</title>
+    <link>https://nrg.fyi/tags/</link>
+    <description>Recent content in Tags on NRG.fyi interesting information about the energy transition</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Aug 2017 15:43:48 +0800</lastBuildDate><atom:link href="https://nrg.fyi/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>development</title>
-      <link>http://localhost:1313/tags/development/</link>
-      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <title>cyber security</title>
+      <link>https://nrg.fyi/tags/cyber-security/</link>
+      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/development/</guid>
+      <guid>https://nrg.fyi/tags/cyber-security/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>golang</title>
-      <link>http://localhost:1313/tags/golang/</link>
-      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <title>energy storage</title>
+      <link>https://nrg.fyi/tags/energy-storage/</link>
+      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/golang/</guid>
+      <guid>https://nrg.fyi/tags/energy-storage/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>templates</title>
-      <link>http://localhost:1313/tags/templates/</link>
-      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <title>insurance</title>
+      <link>https://nrg.fyi/tags/insurance/</link>
+      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/templates/</guid>
+      <guid>https://nrg.fyi/tags/insurance/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>themes</title>
-      <link>http://localhost:1313/tags/themes/</link>
-      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <title>renewable energy</title>
+      <link>https://nrg.fyi/tags/renewable-energy/</link>
+      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/themes/</guid>
+      <guid>https://nrg.fyi/tags/renewable-energy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>toc</title>
-      <link>http://localhost:1313/tags/toc/</link>
-      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <title>risk management</title>
+      <link>https://nrg.fyi/tags/risk-management/</link>
+      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/toc/</guid>
+      <guid>https://nrg.fyi/tags/risk-management/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>English</title>
-      <link>http://localhost:1313/tags/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      <title>Solar</title>
+      <link>https://nrg.fyi/tags/solar/</link>
+      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/english/</guid>
+      <guid>https://nrg.fyi/tags/solar/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>preview</title>
-      <link>http://localhost:1313/tags/preview/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      <title>wind</title>
+      <link>https://nrg.fyi/tags/wind/</link>
+      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/preview/</guid>
+      <guid>https://nrg.fyi/tags/wind/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tag-2</title>
-      <link>http://localhost:1313/tags/tag-2/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      <title>Viriginia, U.S.</title>
+      <link>https://nrg.fyi/tags/viriginia-u.s./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/tag-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>go</title>
-      <link>http://localhost:1313/tags/go/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jekyll</title>
-      <link>http://localhost:1313/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/jekyll/</guid>
+      <guid>https://nrg.fyi/tags/viriginia-u.s./</guid>
       <description></description>
     </item>
     
