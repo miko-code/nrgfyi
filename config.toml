@@ -3,7 +3,7 @@
 # And see https://gohugo.io/getting-started/configuration/ .
 
 baseURL = "https://nrg.fyi"
-title = "NRG.fyi interesting information about the energy transition"
+title = "NRG.fyi  Fuel Your Knowledge"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
@@ -48,9 +48,9 @@ defaultContentLanguage = "en"           # Default language to use
   rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "NRG.fyi"        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["Hugo", "theme","jane"]
-  description = "Hugo theme jane example site."
+  logoTitle = "&#9883;"        # default: the title value    # 默认值: 上面设置的title值
+  keywords = ["Energy news", "Renewable energy","Power industry","Electricity trends","Energy efficiency","Energy sources"]
+  description = "Fuel Your Knowledge"
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "2006-01-02"
