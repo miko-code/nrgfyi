@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on NRG.fyi interesting information about the energy transition</title>
+    <title>Categories on NRG.fyi  Fuel Your Knowledge</title>
     <link>https://nrg.fyi/categories/</link>
-    <description>Recent content in Categories on NRG.fyi interesting information about the energy transition</description>
+    <description>Recent content in Categories on NRG.fyi  Fuel Your Knowledge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Aug 2017 15:43:48 +0800</lastBuildDate><atom:link href="https://nrg.fyi/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nrg.fyi/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Energy Storage</title>
+      <link>https://nrg.fyi/categories/energy-storage/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/categories/energy-storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microgrid</title>
+      <link>https://nrg.fyi/categories/microgrid/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/categories/microgrid/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Renewable Energy</title>
       <link>https://nrg.fyi/categories/renewable-energy/</link>

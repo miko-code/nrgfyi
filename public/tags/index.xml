@@ -1,27 +1,135 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on NRG.fyi interesting information about the energy transition</title>
+    <title>Tags on NRG.fyi  Fuel Your Knowledge</title>
     <link>https://nrg.fyi/tags/</link>
-    <description>Recent content in Tags on NRG.fyi interesting information about the energy transition</description>
+    <description>Recent content in Tags on NRG.fyi  Fuel Your Knowledge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Aug 2017 15:43:48 +0800</lastBuildDate><atom:link href="https://nrg.fyi/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nrg.fyi/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>energy storage</title>
+      <link>https://nrg.fyi/tags/energy-storage/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/energy-storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ERCOT</title>
+      <link>https://nrg.fyi/tags/ercot/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/ercot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RTO</title>
+      <link>https://nrg.fyi/tags/rto/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/rto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>capacity</title>
+      <link>https://nrg.fyi/tags/capacity/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/capacity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency control</title>
+      <link>https://nrg.fyi/tags/frequency-control/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/frequency-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hedging</title>
+      <link>https://nrg.fyi/tags/hedging/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/hedging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>revenues</title>
+      <link>https://nrg.fyi/tags/revenues/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/revenues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>value stacking</title>
+      <link>https://nrg.fyi/tags/value-stacking/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/value-stacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>energy</title>
+      <link>https://nrg.fyi/tags/energy/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grid efficiency</title>
+      <link>https://nrg.fyi/tags/grid-efficiency/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/grid-efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grid stability</title>
+      <link>https://nrg.fyi/tags/grid-stability/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/grid-stability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microgrid</title>
+      <link>https://nrg.fyi/tags/microgrid/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/microgrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soalr</title>
+      <link>https://nrg.fyi/tags/soalr/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/soalr/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>cyber security</title>
       <link>https://nrg.fyi/tags/cyber-security/</link>
       <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
       
       <guid>https://nrg.fyi/tags/cyber-security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>energy storage</title>
-      <link>https://nrg.fyi/tags/energy-storage/</link>
-      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://nrg.fyi/tags/energy-storage/</guid>
       <description></description>
     </item>
     

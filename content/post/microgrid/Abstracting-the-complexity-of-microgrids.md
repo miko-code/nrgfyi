@@ -3,7 +3,7 @@ title: "Abstracting the complexity of microgrids"
 date: 2021-03-08
 #lastmod: 2017-08-30T15:43:48+08:00
 tags: ["energy", "microgrid", "grid stability", "grid efficiency", "soalr" ]
-categories: ["Microgrid"]
+categories: ["microgrid"]
 author: ofer haiat
 draft: false
 

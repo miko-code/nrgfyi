@@ -11,7 +11,7 @@ theme = "jane"
 hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
 paginate = 3              # Number of articles displayed on the homepage  # 首页每页显示的文章数
 rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
-disqusShortname = ""      # disqus_shortname
+disqusShortname = "https-nrg-fyi"      # disqus_shortname
 googleAnalytics = "G-GLVY9ZYQW5"      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
@@ -48,7 +48,7 @@ defaultContentLanguage = "en"           # Default language to use
   rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "&#9883;"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "<img src='/image/logo_transparent.png' width='48' height='85'/>"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Energy news", "Renewable energy","Power industry","Electricity trends","Energy efficiency","Energy sources"]
   description = "Fuel Your Knowledge"
 
@@ -69,4 +69,5 @@ defaultContentLanguage = "en"           # Default language to use
   [params.social]                                         # 社交链接
     a-email = "mailto:ofer@nrg.fyi"
     c-twitter = "https://twitter.com/NRG_fyi"
+    e-linkedin = "https://www.linkedin.com/in/oferhaiat/"
 
