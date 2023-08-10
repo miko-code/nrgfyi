@@ -6,7 +6,7 @@
     <description>Recent content on NRG.fyi  Fuel Your Knowledge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://nrg.fyi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -26,6 +26,283 @@
 &lt;p&gt;Since 2022 , Ofer has been acting as the CFO of Doral Europe , leading the financial and operational needs of the company in Europe.&lt;/p&gt;
 &lt;p&gt;NRG.FYI  created to be a place where energy stake holders (consumers, developers, financiers, off-takers and more) can join and use ideas and thoughts about the energy transition process, its innovations , news and developments.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;All opinions and other content in the blog should be seen as a recommendation for investment or any other action.&lt;/strong&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Future energy storage and distribution</title>
+      <link>https://nrg.fyi/post/energy-storage/future-energy-storage-and-distribution/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/post/energy-storage/future-energy-storage-and-distribution/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;Future energy storage and distribution&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It is no longer a secret, nor a great insight, that we are in a
+revolutionary era in terms of the energy industry. Many technologies ,
+greener and cheaper are implemented , a lot of assets we uses are being
+electrified
+(&lt;a href=&#34;https://www.meticulousresearch.com/product/electric-vehicle-market-5179&#34;&gt;EV&amp;rsquo;s&lt;/a&gt;
+, heating solution) and more and energy , in general becomes more of
+commodity than an production resource.&lt;/p&gt;
+&lt;p&gt;With that development, new challenges and limitations arise and create
+risks for industrial, commercial, and residential uses and processes.
+Our current power grids weren&amp;rsquo;t designed for the challenges they have
+today - from EV&amp;rsquo;s to renewables, climate change and urbanization, so the
+grid needs to be upgraded constantly.&lt;/p&gt;
+&lt;p&gt;To support grid distribution limitations, there is a need to improve and
+create more solutions in the field of distribution and energy storage.
+Energy storage is essential for the transition to a decarbonized economy
+based on renewable energy sources, and energy distribution needs to be
+smarter and more resilient.&lt;/p&gt;
+&lt;p&gt;Due to the fast implementation of EV&amp;rsquo;s, there will be a need to support
+the EV&amp;rsquo;s needs in terms of charging and electricity. As of today, most
+of the needs are local, and can be resolved through local applications
+such as microgrid or even home battery charging stations.&lt;/p&gt;
+&lt;p&gt;In terms of distribution, we should expect development in the low
+voltage network controls. In leveraging the power of distributed
+intelligence, which features continuous insight analytics, and control,
+utility companies can redefine what is possible with low-voltage network
+management.&lt;/p&gt;
+&lt;p&gt;Today, energy distribution systems are used as a hub through a single
+source, power station, that can be either coal, gas, nuclear, hydro,
+solar or wind. That energy is then distributed through a high-voltage
+grid before being converted to low-voltage at the consumer end using
+substations. In the future, while we continue to have the large-scale
+energy system, we will see an increase in power generated at the edge of
+the network through micro power stations, solar, wind and all forms of
+renewables. This will be complemented with battery technologies to store
+when needed. To implement this change requires a new grid distribution
+and operational system for the major utility companies.&lt;/p&gt;
+&lt;p&gt;According to the following
+&lt;a href=&#34;https://infrastructurereportcard.org/wp-content/uploads/2020/12/Energy-2021.pdf&#34;&gt;report&lt;/a&gt;,
+Over the period between 2017-2021, transmission and distribution and
+reliability-focused pipeline investments have increased, and outages
+have declined slightly. Annual spending on high voltage transmission
+lines grew from $15.6 billion in 2012 to $21.9 billion in 2017, while
+annual spending on distribution systems &amp;mdash; the &amp;ldquo;last mile&amp;rdquo; of the
+electricity network &amp;mdash; grew 54% over the past two decades. Utilities
+are taking proactive steps to strengthen the electric grid through
+resilience measures. However, weather remains an increasing threat.
+Among 638 transmission outage events reported from 2014 to 2018, severe
+weather was cited as the predominant cause. Additionally, distribution
+infrastructure struggles with reliability, with 92% of all outages
+occurring along these segments. In the coming years, additional
+transmission and distribution infrastructure, smart planning, and
+improved reliability are needed to accommodate the changing energy
+landscape, as delivery becomes distributed, and renewables
+grow[.]{dir=&amp;ldquo;rtl&amp;rdquo;}&lt;/p&gt;
+&lt;p&gt;Batteries expected to be used for short-term storage while thermal and
+mechanical storage will be used for industrial heat and electricity for
+mid-term storage and electrolyzes will turn excess power from renewables
+will turn excess power from renewables into green hydrogen that can be
+stored long term and turned into electricity or transferred to other
+sectors of the economy as needed.&lt;/p&gt;
+&lt;p&gt;These are the 3 trends who impacts the energy value chain:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://peggysmedleyshow.com/a-primer-on-clean-energy&#34;&gt;Renewables&lt;/a&gt;
+&amp;ndash; technology around renewables is becoming more efficient in terms
+of solar panels, wind farms, heat pumps, safe nuclear, and more.
+Availability across the whole value chain &amp;ndash; from large utilities to
+business and consumers- is critical, and this can enable
+self-generation and provide additional energy back to the grid when
+surplus is generated.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Batteries&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Digitalization/Modernization&lt;/strong&gt; &amp;ndash; Transformation of the energy
+sector through virtualization will require robust, scalable, and
+reliable communications infrastructure to enable monitoring and
+control leveraging the power. For instance, AI can enable energy
+systems to make intelligent decisions about where, how, and when
+they consume power in real-time. Edge compute platforms can extract,
+store, and utilize data at scales, supported by AI accelerators and
+automated processes , to schedule , manage , and automate the use of
+renewable energy.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>The Value of Energy storage in Europe</title>
+      <link>https://nrg.fyi/post/energy-storage/the-value-of-energy-storage-in-europe/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/post/energy-storage/the-value-of-energy-storage-in-europe/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;The Value of Energy storage in Europe&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Energy storage has been deemed one of the missing links of the energy transition for quite some time now. After the vast deployment of standalone storage assets, which tirelessly (and swiftly) respond for duty when the grid needs it, the long-awaited next phase of renewables-plus storage is finally approaching the mainstream!&lt;/p&gt;
+&lt;p&gt;The term ‘renewables-plus-storage colocation’ has climbed the ladder in the renewable’s vocabulary, particularly in the merchant renewables sphere. But combining two business models requires the resolution of multiple riddles. What is the optimal use-case of the hybrid set-up? What’s the optimal revenue streams strategy when there are competing interests between the two assets? How does the industry model a cost-benefit analysis to evaluate an investment decision?&lt;/p&gt;
+&lt;p&gt;The value of flexibility, not only for individual assets, but for the entire electricity system is widely recognized. On one hand, the ability to bid into the market and deliver grid services contributes to tangible ‘value creation’ for storage assets. Overall, policy and regulation players in each country have operated with different gears on that front, in the sense that value creation in each market differs. There’s a wide push for more and more jurisdictions to get up to speed with route-to-market visibility to encourage further deployment. &lt;a href=&#34;https://energy.ec.europa.eu/topics/markets-and-consumers/market-legislation/electricity-market-design_en&#34;&gt;The EU’s landmark Electricity Market Design&lt;/a&gt; proposed reform comprises the ultimate testament to the increased ambitions on a regional and member state level.&lt;/p&gt;
+&lt;p&gt;On the other hand, ‘value capture’ is the tough job of how to tap such value and convert it into realized revenue. This is where tools like optimization agreements, contractual arrangements, and Hybrid PPAs fall into place.&lt;/p&gt;
+&lt;p&gt;The interest in the asset class is growing exponentially both by policy and regulation (value creation) but modelling the value of storage for an investment case (value capture) is a challenge.&lt;/p&gt;
+&lt;p&gt; When it comes to monetization of energy storage assets, it’s really the billion -dollar question to underpin the entire business case. The valuation aim is no different than any other infrastructure investment: investors need to understand the asset’s risk-return profile, its expected revenues and estimated internal rate of return (IRR) to understand whether the investment is worth pursuing. But with energy storage assets, performing this task is not as straight-forward.&lt;/p&gt;
+&lt;p&gt;In the beginning of the energy transition, the risk profile of renewables attracted financiers like pension funds, institutional investors, and lenders due to the asset mirroring the characteristics of ‘core infrastructure’ assets: low-return low-risk asset profiles which are able to generate stable yields. Since then, not only have the risks profile of renewables evolved, but new asset classes with different risk profiles were deemed necessary and required calibration of investment strategies. And yes, energy storage was the first new asset class to rock the boat.&lt;/p&gt;
+&lt;p&gt;Monetizing strategies for storage are ever evolving. Starting from grid-level opportunities, grid operators and regulators are creating a plethora of routes to market in the form of grid services for energy storage (and particularly fast responding battery storage) to support the technology’s deployment and eventually take advantage of its competitive edge: quick flexibility to replace services that used to be provided by retiring thermal plants, and tackle supply/demand imbalances from increased renewables penetration.&lt;/p&gt;
+&lt;p&gt;Some of the most critical revenue streams exist through imbalance markets, such as the UK’s Balancing Market (BM) daily auctions, Capacity Markets (CM) or regulation ancillary services such as Fast Frequency Response (FFR), for example UK’s Dynamic Containment (DC), and Automatic Frequency Restoration Reserve (aFRR) auctions. Such opportunities gave birth to robust business models for standalone storage assets. A prime example is the UK.&lt;/p&gt;
+&lt;p&gt;As the standalone energy storage concept matured, market players started looking at such assets from a complementary angle, that of co-location. Asset-level opportunities are centered around the idea that storage is primarily improving the performance – and therefore investment returns – of renewables through mitigating the risks deriving from their inherent intermittency nature. Profile shaping comprises a prime example, tackling the effects of cannibalization in the spot markets. The latest mega trend in the renewables-plus-storage sphere is in Hybrid PPAs.&lt;/p&gt;
+&lt;p&gt;The focal level of standalone storage asset is indeed grid services. However, when it comes to co-location, it’s pivotal to note that the two focal levels, grid- and asset-level opportunities, are not mutually exclusive. The combination of value creation from grid-level services alongside optimization of asset-level revenues encapsulates the driver behind the seeking of the colocation promising land.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Value Stream&lt;/td&gt;
+&lt;td&gt;Comments&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Balancing service&lt;/strong&gt; – accessible for SA and co-loc&lt;/td&gt;
+&lt;td&gt;Balancing authorities across Europe have the heavy responsibility of managing the physical aspect of the grid in real time, ensuring that there is a balance between supply and demand. Each country has different mechanisms in place to perform this task, creating services for various generations of technologies to monetize their contribution. It’s deemed a key route-to-market for storage assets.For example, in the UK - Operated by National Grid ESO, the Balancing Mechanism (BM) is the operator’s primary tool to balance supply and demand on the network in real time. &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Regulated Markets&lt;/strong&gt; – FCR, FFR – an opportunity for SA projects, but also co-loc through optimization agreements for the storage part of the hybrid project&lt;/td&gt;
+&lt;td&gt;Short-term ancillary services enabled the number one competitive advantage of batteries to shine: fast response to grid needs in seconds. The nature of such services is to adapt their requirements depending on what is needed the most. For example, the cadence of auctions is adapting, and so are the rules of participation or the required volumes. Therefore, it’s not merely the strike price that is uncertain, but also the very existence of the service. The opportunistic thesis of such services put the seeds of a flexible mindset in storage asset owners and set the foundations of the famous ‘revenue stacking’ approach. Not one revenue stream is enough to create a long-term revenue plan to enable project or debt financing, so the aim has been to tap opportunities when they arise and feel comfortable with it. Optimization companies became some valuable partners, aiming to create as much revenue visibility as possible to their clients, and being in charge with the day-to-day bidding strategy of the assets through optimization agreements.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Sales in spot markets&lt;/strong&gt; – price arbitrage can be performed by SA while profile shaping with the same benefits can be achieved by co-loc assets&lt;/td&gt;
+&lt;td&gt;Outside the ‘services’ world, energy storage is also a participant in the wholesale spot markets. The aim is to take advantage of spot market volatility in the day-ahead markets, storing energy when spot prices are low, and selling at peak hours; aka price arbitrage and profile shaping for co-located assets. The wider the average daily wholesale spread, the better. Because such value stream is not a limited participation regulated service, it&amp;rsquo;s deemed as the most durable long-term revenue stream&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Capacity Markets&lt;/strong&gt; – prime route to market offering some long-term revenue visibility through specific contracts. Can be accessed both from SA and co-loc&lt;/td&gt;
+&lt;td&gt;In the UK - The scheme offers 1-15 year contracts for generation or demand-side response (DSR) units to financially incentivize their availability. The more sought after 15-year contracts are only reserved for new-build assets and comprised the success factor behind the first debt financings for battery storage assets. The upwards trajectory of the clearing price over the past auctions has surprised even the most optimistic observatory, rendering the revenue scheme a highly valuable both for new and existing assets. Othe EU countries - France, Ireland, Poland, Belgium, and Italy followed suit in setting up capacity mechanisms, which is deemed a large enabler of new storage assets to receive financing and connect to the grid. More countries are set to follow, with a prime example being Greece. The design, participation rules and payment mechanism differ from country to country, so participants need to confirm the bankability of such contracts in each region&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Portfolio level risk management&lt;/strong&gt; - the benefits of standalone storage assets and co-located ones can be equally quantified on a portfolio level&lt;/td&gt;
+&lt;td&gt;As renewables portfolios are growing, so are the risks that portfolios are exposed to. Price risk due to merchant exposure, capture risk due to cannibalization, and volume risk due to intermittent are some of the core ones. Flexible assets (such as energy storage or gas engines) and technologies (such as hydro) often help dilute risk exposure through diversification of capabilities. Such a value stream can only be measured through quantitative analysis either on a portfolio level (which could include standalone storage as well) or on individual asset level (only if storage and renewables are co-located) on an overall portfolio level, as it’s not a direct revenue stream such as the abovementioned. In a high pricing environment, imbalance risk for renewables also becomes notable, and through storage co-location imbalance costs could turn into revenue.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Hybrid PPA&lt;/strong&gt; - a contractual arrangement leveraging benefits both for the grid- and asset-level, only available to co-located assets&lt;/td&gt;
+&lt;td&gt;With a Hybrid PPA, the idea is to get the best of the two worlds: potentially generate revenues through grid services, while improving the investment returns of the renewable asset. The first financial-benefits touchpoint of considering co-locating a renewable asset with storage is the cost savings from the shared grid connection. Such cost savings, as well as saturation in the ancillary service markets, increased cannibalization risk for renewables and volatility in the wholesale markets incentivizing profile shaping of intermittent renewables, comprise factors driving market players to explore the co-location model overall. The maturity of tangible contractual arrangements and the emergence of Hybrid PPAs make the co-location consideration even more attractive. How the two assets will communicate will be dependent on the contractual details. With a Hybrid PPA, it’s possible to have a physical asset to manage the different types of PPA structures, practically turning storage into a physical hedge to complement the financial hedge of the renewable asset. At the same time, another option would be for the two assets to operate virtually independently, with a renewable PPA for the generation, and an optimization agreement for storage. Or adding a price premium to the energy produced from the renewable asset by valuing-in the flexibility which allows better risk management of the energy. &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Revenue streams and use-cases for energy storage assets are multiple. Yes, energy storage is a Swiss-army knife multitasker, but eventually a decision needs to be made as to which business model will prove the one which best underpins each case. After the screening phase of available opportunities comes the time for modelling different scenarios, which we have identified as a core challenge in the industry.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>The energy Security Scenario</title>
+      <link>https://nrg.fyi/post/global-energy/the-energy-security-scenario/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/post/global-energy/the-energy-security-scenario/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;The energy Security Scenario&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is a summary of the Energy Security Scenarios report made by &lt;a href=&#34;https://www.shell.com/energy-and-innovation/the-energy-future/scenarios/the-energy-security-scenarios.html&#34;&gt;Shell&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Shell created 3 different energy scenarios - Waves, Islands and Sky 1.5. Each of these was built around possible approaches to climate change action as the world emerged from the COVID-19 pandemic.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Waves&lt;/strong&gt; - &lt;strong&gt;Waves&lt;/strong&gt; assumed that &lt;strong&gt;society&lt;/strong&gt; would &lt;strong&gt;prioritize repairing the economy&lt;/strong&gt;. In &lt;strong&gt;Waves&lt;/strong&gt; this focus on wealth pushes other societal and environmental pressures into the background, until their relative neglect provokes backlash reactions. This prompts rapid action to address global emissions but, even though the world achieves net-zero emissions, it comes too late to meet the stretch goal of the Paris Agreement – to limit global average warming to 1.5°C above pre-industrial levels by the end of this century. &lt;strong&gt;This scenario shows late, but fast decarbonization&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Islands&lt;/strong&gt; - &lt;strong&gt;Islands&lt;/strong&gt; assumed that &lt;strong&gt;security becomes the priority after COVID-19&lt;/strong&gt;. In &lt;strong&gt;Islands&lt;/strong&gt; a new emphasis on nationalism threatens to dismantle the post-war geopolitical order and co-operation is limited. &lt;strong&gt;Competition between nations&lt;/strong&gt;, however, &lt;strong&gt;means technological advances&lt;/strong&gt;. Innovations are adopted, infrastructure is renewed and eventually the world does still reach net-zero emissions. &lt;strong&gt;The goal of the Paris Agreement is missed&lt;/strong&gt;. &lt;strong&gt;This is late and slow decarbonization&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;strong&gt;Sky 1.5&lt;/strong&gt; - &lt;strong&gt;Sky 1.5&lt;/strong&gt; set a fixed goal of achieving the Paris Agreement and worked backwards from that point to explore how that could happen, considering the global situation in the early 2020s. Using this normative approach, in &lt;strong&gt;Sky 1.5&lt;/strong&gt; there is a post-pandemic focus on health and public well-being that results in high levels of co-operation towards mutually beneficial aims. This is accelerated decarbonization.&lt;/p&gt;
+&lt;p&gt;In February 2022, the fragile post-Cold War global order cracked apart when Russia invaded Ukraine. There had already been worries about the supply of fossil-fuel energy, but the invasion made it clear how dependent society is, collectively, on traditional fuels like oil and gas. As nations respond, the world is collectively plunging into the security mindset that dominates &lt;strong&gt;Islands.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The new situation created 2 new sub scenarios:  &lt;strong&gt;Archipelagos&lt;/strong&gt; (as relevant to Islands) and &lt;strong&gt;Sky 2050&lt;/strong&gt;. The &lt;strong&gt;Archipelagos&lt;/strong&gt; scenario seeks to follow a possible path from where the world was in 2022, while &lt;strong&gt;Sky 2050&lt;/strong&gt; starts with a desired outcome of: net-zero emissions by 2050 and global warming limited to 1.5°C by the end of the century and works backwards to explore how that outcome could be achieved. Working backwards to the realities of 2022 means that, while &lt;strong&gt;Sky 2050&lt;/strong&gt; does make many stretching assumptions, there is no expectation of halving emissions by 2030 as required by the Glasgow Climate Pact from COP26.&lt;/p&gt;
+&lt;p&gt;To analyze how countries will react to the recent geo-political changes, the report creates 4 types of country profile as in the below table. &lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Profile&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Energy supply&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Energy prices volatility&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Region&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Green Dream&lt;/td&gt;
+&lt;td&gt;Highly vulnerable&lt;/td&gt;
+&lt;td&gt;Highly vulnerable&lt;/td&gt;
+&lt;td&gt;EU&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Innovation Wins&lt;/td&gt;
+&lt;td&gt;Not vulnerable&lt;/td&gt;
+&lt;td&gt;Highly vulnerable&lt;/td&gt;
+&lt;td&gt;USA, UAE&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Great Wall of Change&lt;/td&gt;
+&lt;td&gt;Not vulnerable&lt;/td&gt;
+&lt;td&gt;Not vulnerable&lt;/td&gt;
+&lt;td&gt;China&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Surfers&lt;/td&gt;
+&lt;td&gt;Vulnerable&lt;/td&gt;
+&lt;td&gt;Vulnerable&lt;/td&gt;
+&lt;td&gt;India&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/YkeI59OV5dX91NX-E2-b-0b7Dj8OxY4yomvtKlcGEiEo8lawVkdx887aQXAg-4_LX2fCTQHW5x1XPCr5IV0rXxgMVX3x7SCztG2XN5MWjwDpGs4bTdcNMC07zMqKD06oNnIx7x9y5EXBa1FaGmaXDQ&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The need for energy security&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Since the end of the Soviet Union, many had assumed that the forces of globalization and liberalization would prevail. Multiple developments seemed to support this view, including interconnected supply chains, international travel, and global cultural events. Other sources of optimism included the spread of social media, the unifying effects of digitalization and a shared concern over climate change. &lt;/p&gt;
+&lt;p&gt;Beneath all of this, however, huge cracks have opened in the global order with growing doubts about the future of globalization itself. The signs pointing to trouble ahead have been present for some time. There has been a rise in nationalism, populism, and growing inequality within and between states, as well as a failure to deliver significant climate finance. The main examples are the trade war between the US and China, the Brexit and difficult relationships between Australia and China. With the war in Ukraine, the world has seen the threat to use nuclear weapons, the undercutting of international institutions such as the UN and interruptions in the supply of energy and food that are affecting the whole world. In the coming years, there appears to be little prospect of any return to the former world order.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Paris Agreement&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The goal of the Paris agreement is:” Holding the increase  in the global average temperature to well below 2°C above pre-industrial levels and pursuing efforts to limit the temperature increase to 1.5°C above pre-industrial levels, recognizing that this would significantly reduce the risks and  impacts of climate change”&lt;/p&gt;
+&lt;p&gt;How close the world is to reaching 1.5°C of warming is best described in terms of what is known as the “carbon budget”. The ongoing rise in global temperatures has a roughly linear relationship to the amount of CO2 emissions built up in the atmosphere over time. This means it is possible to estimate what sort of temperature rise is likely from a given amount of CO2 emissions in the atmosphere. Knowing how much CO2 results in each temperature rise, means society can estimate how much CO2 can be emitted before the world hits 1.5°C of warming. This is the carbon budget.&lt;/p&gt;
+&lt;p&gt;These dynamics around the carbon budget leave the world with only one option if it is to achieve 1.5°C. If society exceeds its budget, then it must make up the difference later. It can do so by removing CO2 from the atmosphere to balance the excess.&lt;/p&gt;
+&lt;p&gt;Pathways which exceed the carbon budget but then make up the difference in subsequent years, by removing CO2 from the atmosphere, are referred to as overshoot pathways. In these pathways the global average surface temperature overshoots the desired goal, but eventually returns to that level. &lt;strong&gt;Sky 2050&lt;/strong&gt; is an overshoot pathway.&lt;/p&gt;
+&lt;p&gt;This overshoot pathway leads to a conclusion that carbon capture, carbon removal and carbon storage will have to play important roles.  This set of technologies comes in many shapes and forms as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Industrial CO2 capture at a facility such as a chemical plant. This involves passing a stream of waste gases over a material which binds to the CO2 and prevents it from reaching the atmosphere.&lt;/li&gt;
+&lt;li&gt;Direct capture of CO2 from the atmosphere (DAC).  This involves sucking air over a material which binds to the CO2 and removes it from the atmosphere. Very large quantities of air must be processed for this technology to deliver a meaningful result.&lt;/li&gt;
+&lt;li&gt;Geological storage takes the CO2 captured at an industrial facility, or through DAC, and places it in a geological formation some 2-3 km below the surface. This is permanent storage away from the atmosphere and so removes the CO2 from the natural carbon cycle. In this way it either compensates for, or prevents, CO2 from being added to the atmosphere by the combustion of fossil fuels or chemical processes.&lt;/li&gt;
+&lt;li&gt;Increasing the carbon held in the land system through activities such as reforestation and soil restoration.  This removes CO2 from the atmosphere.&lt;/li&gt;
+&lt;li&gt;Capturing CO2 from power plants fueled by biomass and permanently storing the CO2. This is known as bioenergy with carbon capture and storage (BECCS). It indirectly removes CO2 from the atmosphere.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Leapfrog development&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An important element of securing the goal of the Paris Agreement is an effective leapfrog over the fossil fuel era – cutting out the use of fossil fuels entirely. &lt;/p&gt;
+&lt;p&gt;Some nations have the potential to leapfrog because they start from such an energy poor position. Rather than fueling their countries’ development by burning fossil fuels, they move directly into widespread electrification and low-carbon sources of electricity generation. Apart from global climate benefits, bringing forward electrification with renewables has significant domestic advantages. These benefits include improving local environmental quality, increasing energy access, and reducing import dependence.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;Sky 2050&lt;/strong&gt;, and to a large extent in &lt;strong&gt;Archipelagos&lt;/strong&gt;, the countries do not enter the fossil fuel era to the extent that others have (although many still consume biomass, such as wood) and instead move straight to electricity-based energy technologies such as wind and solar. They adopt these technologies at only a slightly slower rate than nations of other archetypes.&lt;/p&gt;
+&lt;p&gt;A successful leapfrog – which involves electrifying the economy, accelerating the adoption of renewables, and investing to integrate these new energy sources into each nation’s energy system – requires three things:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Powerful effective policies&lt;/strong&gt; - These policies incentivize electricity use sector-by-sector (such as transport, buildings, and industry). The policies also work to decarbonize the power sector and include both targets for the uptake of renewables and subsidies to support their adoption. The world is already seeing action of this nature starting in countries like South Africa and Indonesia. In addition, government policies remove institutional and regulatory barriers to renewable deployment. One example would be to ensure that the low cost of renewable electricity is reflected in the prices that customers pay. Another example would be to speed up planning processes and regulation reforms.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Worldwide renewable acceleration&lt;/strong&gt; - Critically, the cost of renewables must fall, alongside the cost of technologies that integrate intermittent renewable generation into the power grid. Falling costs can drive further deployment and improve confidence in renewables-based systems.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sufficient Finance&lt;/strong&gt; - This means governments and international institutions, such as multilateral development banks, need to find innovative ways of working with private sources of capital to provide adequate funding streams.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;The impact of leapfrog development&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The potential power of the leapfrog phenomenon tends to be overlooked. In part this is because most forecasts have systematically failed to anticipate the declining cost of solar and wind generation. This failure means the speed of renewable deployment is also typically underestimated. In addition, not enough weight has been given to the cost reductions that are likely as more and more renewable systems are rolled out around the world: society will learn as it goes and find better and more efficient systems and techniques.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sectoral and societal trends&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The chemical industry transforms.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Since World War II, the demand for non-energy products made from oil – such as petrochemicals (including plastics), fertilizer and bitumen – has grown steadily. The world’s use of chemicals is extremely diverse: they are used in many products that provide comfort and convenience, including packaging, clothing, home insulation and foams for furniture. Less obvious to many, they are also essential to products used for sanitation, preserving foods, treating diseases, and increasing crop yields. Innovation into new advanced materials – and new ways of using them – is constantly increasing the usefulness of these products in our lives.&lt;/p&gt;
+&lt;p&gt;So central have non-energy oil products become that demand for them has grown at the same pace as the global economy (in terms of GDP). Demand growth in developing countries runs even faster than GDP, as lifestyles catch up. In rich countries, the evidence suggests that per capita demand is slowing down and may have reached a peak for some products. However, predictions of a shift to less material-intensive growth have not yet occurred at large scale. Attempts to move towards traditional materials like metal and glass often run into the challenge that they can come with higher carbon footprints.&lt;/p&gt;
+&lt;p&gt;With rising incomes in non-OECD countries, demand continues to grow. Growth in richer countries starts to plateau, albeit at different rates. Plastic waste in nature, growing concerns on microplastics and the industry’s increasing share of global CO2 emissions led to a wide range of environmental challenges. Addressing these is not easy for the industry: it is a highly complex sector due to its diversity across consumers, products, technology, by-products, and international trade. The industry’s production facilities can also last 60 years or more, often locking in old technology.&lt;/p&gt;
+&lt;p&gt;A growing share of bio-based chemicals emerges through a mix of new policies and a higher willingness from consumers to pay a premium. Many such chemicals will be based on different molecules than those that emerged from the oil-based feedstocks that are common today. In addition to bio-based feedstocks, there is a move to bio-degradable products. These are focused on applications where the lack of recycling options means there is a high risk of these products remaining for a long time in nature, such as microplastics. The fertilizer industry is the first to move at large scale to products made from green hydrogen – made by using renewable energy to split water molecules.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Energy efficiency&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The security-first mindset that dominates following the Russian invasion of Ukraine, combined with the high price of energy, brings energy efficiency to the top of agendas. This is a factor across both scenarios.&lt;/p&gt;
+&lt;p&gt;When fossil fuels dominate the energy mix, energy use drives emissions. This means that limiting the use of energy can help limit emissions. In addition, by keeping overall energy use as low as possible the growth of new energy supplies can displace a greater proportion of the legacy fossil fuel-based energy system.&lt;/p&gt;
+&lt;p&gt;Energy use can be limited by two methods. Firstly, people can choose to use energy in more efficient ways – by driving smoothly and limiting speed, for example. Secondly, products and processes that use energy can be designed to use it more effectively – cars can be designed so that the amount of energy they need to drive 1 kilometer comes down.&lt;/p&gt;
+&lt;p&gt;Electric vehicles convert around 80% of the energy they take from the grid into power at the wheels. This means that if the electricity for an electric vehicle comes from a renewable energy installation, which generates electricity without losing energy through combustion, the overall efficiency of the system is around 80%. The exact figure depends on transmission losses, electricity storage and other factors. The picture is less good for electric vehicles if the electricity is produced by burning coal or natural gas. If fossil fuels are the source of the grid power going into an electric car, the overall efficiency is around 25-40%. Conventional internal combustion engine vehicles convert less than a third of the energy stored in petrol to power at the wheels.&lt;/p&gt;
+&lt;p&gt;Beyond electric vehicles, other major step changes involve appliances and heating in homes and buildings. While most appliances are already electric, moving from cooking on flames to electric cooking significantly improves efficiency. Natural gas cooking hobs are about 40% efficient, whereas whole electric-coil and standard smooth-top electric hobs are around 70% efficient. The latest induction hobs are more than 80% efficient. Cooking with biomass, like wood, is likely to be less efficient than natural gas, although in certain circumstances where home heating is incorporated, this may not always be the case.&lt;/p&gt;
+&lt;p&gt;Finally, the efficient use of energy to heat or cool buildings can be improved both as a step change – by introducing technologies such as heat pumps – and progressively through an active insulation program. Under ideal conditions, an electric heat pump can transfer 300% more energy than it consumes. In contrast, a high efficiency gas furnace is about 95% efficient.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A transport revolution&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Road passenger&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;The future of road passenger vehicles shifts rapidly to a single solution: battery electric power. No space emerges for any other solution as manufacturers abandon the development, then production, of vehicles with an internal combustion engine. Business models throughout the passenger transport sector rapidly move towards electric vehicles. The energy efficiency of electric vehicles means that total energy demand in this sector falls even as vehicle numbers grow.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Road freight&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; The road freight transition also includes a shift towards electricity. This starts with light vans, municipal trucks, and service vehicles, before spreading into medium-haul trucks. But the high-energy density of molecular fuels remains critical for very heavy-duty applications and long-haul, high-capacity road freight. Biofuels and, much later, synthetic fuels based on CO2 directly captured from the air, contribute to a lower carbon footprint for the sector. From the late 2020s, hydrogen fuel-cell vehicles emerge as the preferred solution.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aviation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Aviation remains reliant on liquid hydrocarbon fuels, with no alternatives emerging at scale until the 2040s. Battery electric planes – with the electricity used to turn propellers – make their first appearance in the 2030s on very short commuter routes. Jet turbine planes, burning hydrogen as a fuel, start to appear on medium-haul routes in the 2040s. The major shift comes in the formulation of jet fuel, with sustainable aviation fuels taking market share from the 2020s onwards. This starts with biofuel being mixed with kerosene. In time, the cost of capturing CO2 from the air using direct air capture (DAC) fall, and this allows for the cost-effective production of synthetic hydrocarbon fuels.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Shipping&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; In the 2020s and 2030s, the shipping industry experiments with a number of options to reduce its carbon footprint. These include biofuels such as bio-methanol, liquefied natural gas (LNG) and hydrogen (either directly using hydrogen as a fuel, or in the form of ammonia). In the mid-2030s, however, the industry settles firmly on the hydrogen-based solution, working in close co-operation with shipbuilders, fuel suppliers and key bunkering ports. Almost all ships constructed after this time have fuel systems that use either hydrogen or ammonia.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-ttIkNShDfXCkNviUhcC1zNDCe3Yw0b907MyxkHXKiVb28phOYGwiW5907jZs4Gb1S4VMWxnzElA0hf3H8Z3yEPWeCPO__szJVbkAoDP1a94-p4DJ4ht5sWd_hj_MlToswS9cfujNwEtV6DV3GZr_g&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/13dLPeMHxdpbwmC2XjNpl07ZSGnNmX3Dcu_-gflVNQY-T5kFCfg4mWxPITT_eM3WknRdUgExhKMQ3BY_z3TmQuot6O7DbVdiUumyOvSv6Xut8Zv1YbNjTKXqdEgjpPlMr6gvPUg4oEtSfKZ_luigPA&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/UqAfL4yNTa0vZjXIZ3H7i9WxQ4g3WJchNrZze93Ej5XfeTeph5kWUgW8BoakF2LpkPf7aG9nRaOTGasx-KgYcvyrFNwtI5ksIcnfhgIztbXCplDiz2V-SRZnh30vP6GHw773diJExv5R61JaGdlUiw&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
       
     </item>

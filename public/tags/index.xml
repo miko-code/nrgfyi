@@ -6,92 +6,47 @@
     <description>Recent content in Tags on NRG.fyi  Fuel Your Knowledge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nrg.fyi/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nrg.fyi/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>energy storage</title>
-      <link>https://nrg.fyi/tags/energy-storage/</link>
-      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <title>C&amp;I</title>
+      <link>https://nrg.fyi/tags/ci/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://nrg.fyi/tags/energy-storage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ERCOT</title>
-      <link>https://nrg.fyi/tags/ercot/</link>
-      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/ercot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RTO</title>
-      <link>https://nrg.fyi/tags/rto/</link>
-      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/rto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>capacity</title>
-      <link>https://nrg.fyi/tags/capacity/</link>
-      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/capacity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Frequency control</title>
-      <link>https://nrg.fyi/tags/frequency-control/</link>
-      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/frequency-control/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hedging</title>
-      <link>https://nrg.fyi/tags/hedging/</link>
-      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/hedging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>revenues</title>
-      <link>https://nrg.fyi/tags/revenues/</link>
-      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/revenues/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>value stacking</title>
-      <link>https://nrg.fyi/tags/value-stacking/</link>
-      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/value-stacking/</guid>
+      <guid>https://nrg.fyi/tags/ci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>energy</title>
       <link>https://nrg.fyi/tags/energy/</link>
-      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nrg.fyi/tags/energy/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>energy distribution</title>
+      <link>https://nrg.fyi/tags/energy-distribution/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/energy-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EV</title>
+      <link>https://nrg.fyi/tags/ev/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/ev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>grid efficiency</title>
       <link>https://nrg.fyi/tags/grid-efficiency/</link>
-      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nrg.fyi/tags/grid-efficiency/</guid>
       <description></description>
@@ -100,90 +55,135 @@
     <item>
       <title>grid stability</title>
       <link>https://nrg.fyi/tags/grid-stability/</link>
-      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nrg.fyi/tags/grid-stability/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Hybrid</title>
+      <link>https://nrg.fyi/tags/hybrid/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>microgrid</title>
       <link>https://nrg.fyi/tags/microgrid/</link>
-      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nrg.fyi/tags/microgrid/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>soalr</title>
-      <link>https://nrg.fyi/tags/soalr/</link>
-      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <title>Policy</title>
+      <link>https://nrg.fyi/tags/policy/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://nrg.fyi/tags/soalr/</guid>
+      <guid>https://nrg.fyi/tags/policy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>cyber security</title>
-      <link>https://nrg.fyi/tags/cyber-security/</link>
-      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
+      <title>PPA’s</title>
+      <link>https://nrg.fyi/tags/ppas/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://nrg.fyi/tags/cyber-security/</guid>
+      <guid>https://nrg.fyi/tags/ppas/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>insurance</title>
-      <link>https://nrg.fyi/tags/insurance/</link>
-      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
+      <title>Security</title>
+      <link>https://nrg.fyi/tags/security/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://nrg.fyi/tags/insurance/</guid>
+      <guid>https://nrg.fyi/tags/security/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>renewable energy</title>
-      <link>https://nrg.fyi/tags/renewable-energy/</link>
-      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
+      <title>Smart energy</title>
+      <link>https://nrg.fyi/tags/smart-energy/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://nrg.fyi/tags/renewable-energy/</guid>
+      <guid>https://nrg.fyi/tags/smart-energy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>risk management</title>
-      <link>https://nrg.fyi/tags/risk-management/</link>
-      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://nrg.fyi/tags/risk-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solar</title>
+      <title>solar</title>
       <link>https://nrg.fyi/tags/solar/</link>
-      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nrg.fyi/tags/solar/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>wind</title>
+      <title>Storage</title>
+      <link>https://nrg.fyi/tags/storage/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U.S</title>
+      <link>https://nrg.fyi/tags/u.s/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/u.s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>value stacking</title>
+      <link>https://nrg.fyi/tags/value-stacking/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/value-stacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wind</title>
       <link>https://nrg.fyi/tags/wind/</link>
-      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nrg.fyi/tags/wind/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Viriginia, U.S.</title>
-      <link>https://nrg.fyi/tags/viriginia-u.s./</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Regulation</title>
+      <link>https://nrg.fyi/tags/regulation/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://nrg.fyi/tags/viriginia-u.s./</guid>
+      <guid>https://nrg.fyi/tags/regulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storage, Biogas</title>
+      <link>https://nrg.fyi/tags/storage-biogas/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/storage-biogas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>energy storage</title>
+      <link>https://nrg.fyi/tags/energy-storage/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/tags/energy-storage/</guid>
       <description></description>
     </item>
     
