@@ -16,10 +16,8 @@ autoCollapseToc: true
 #contentCopyright: '<a href="https://github.com/gohugoio/hugoBasicExample" rel="noopener" target="_blank">See origin</a>'
 # reward: false
 # mathjax: false
----
-**The Value of Energy storage in Europe**
-****
 
+---
 Energy storage has been deemed one of the missing links of the energy transition for quite some time now. After the vast deployment of standalone storage assets, which tirelessly (and swiftly) respond for duty when the grid needs it, the long-awaited next phase of renewables-plus storage is finally approaching the mainstream!
 
 The term ‘renewables-plus-storage colocation’ has climbed the ladder in the renewable’s vocabulary, particularly in the merchant renewables sphere. But combining two business models requires the resolution of multiple riddles. What is the optimal use-case of the hybrid set-up? What’s the optimal revenue streams strategy when there are competing interests between the two assets? How does the industry model a cost-benefit analysis to evaluate an investment decision?

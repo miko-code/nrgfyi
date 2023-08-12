@@ -17,7 +17,6 @@ autoCollapseToc: true
 # reward: false
 # mathjax: false
 ---
-**Future energy storage and distribution**
 
 It is no longer a secret, nor a great insight, that we are in a
 revolutionary era in terms of the energy industry. Many technologies ,

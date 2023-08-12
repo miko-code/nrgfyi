@@ -17,7 +17,7 @@ autoCollapseToc: true
 # reward: false
 # mathjax: false
 ---
-**The energy Security Scenario**
+
 
 This is a summary of the Energy Security Scenarios report made by [Shell](https://www.shell.com/energy-and-innovation/the-energy-future/scenarios/the-energy-security-scenarios.html).
 
