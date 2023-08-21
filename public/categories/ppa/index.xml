@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PPA on NRG.fyi  Fuel Your Knowledge</title>
+    <link>https://nrg.fyi/categories/ppa/</link>
+    <description>Recent content in PPA on NRG.fyi  Fuel Your Knowledge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nrg.fyi/categories/ppa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Components driving PPA price and their risks.</title>
+      <link>https://nrg.fyi/post/ppa/components-driving-ppa-price-and-their-risks./</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/post/ppa/components-driving-ppa-price-and-their-risks./</guid>
+      <description>PPA structures are evolving, and the challenge of Hybrid PPAs lies behind understanding and quantifying the benefits of flexibility, and how it’s reflected in the pricing. The risk profile of the asset is the core determinant of its fair value. And since energy storage changes the risk profile of the generation part, this would need to be reflected in the price.
+To understand what’s driving the Hybrid PAP pricing, it would be better to go through how benchmark PPA prices are modelled, and the risk components driving the fair value of the energy.</description>
+    </item>
+    
+  </channel>
+</rss>

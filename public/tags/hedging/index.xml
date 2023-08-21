@@ -6,7 +6,17 @@
     <description>Recent content in hedging on NRG.fyi  Fuel Your Knowledge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nrg.fyi/tags/hedging/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nrg.fyi/tags/hedging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Components driving PPA price and their risks.</title>
+      <link>https://nrg.fyi/post/ppa/components-driving-ppa-price-and-their-risks./</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/post/ppa/components-driving-ppa-price-and-their-risks./</guid>
+      <description>PPA structures are evolving, and the challenge of Hybrid PPAs lies behind understanding and quantifying the benefits of flexibility, and how it’s reflected in the pricing. The risk profile of the asset is the core determinant of its fair value. And since energy storage changes the risk profile of the generation part, this would need to be reflected in the price.
+To understand what’s driving the Hybrid PAP pricing, it would be better to go through how benchmark PPA prices are modelled, and the risk components driving the fair value of the energy.</description>
+    </item>
+    
     <item>
       <title>Battery energy storage use cases and outcome revenues streams</title>
       <link>https://nrg.fyi/post/energy-storage/battery-energy-storage-use-cases/</link>
