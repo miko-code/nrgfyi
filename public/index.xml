@@ -6,7 +6,7 @@
     <description>Recent content on NRG.fyi  Fuel Your Knowledge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://nrg.fyi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -26,6 +26,42 @@
 &lt;p&gt;Since 2022 , Ofer has been acting as the CFO of Doral Europe , leading the financial and operational needs of the company in Europe.&lt;/p&gt;
 &lt;p&gt;NRG.FYI  created to be a place where energy stake holders (consumers, developers, financiers, off-takers and more) can join and use ideas and thoughts about the energy transition process, its innovations , news and developments.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;All opinions and other content in the blog should be seen as a recommendation for investment or any other action.&lt;/strong&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Contractual arrangement in Hybrid PPA’s agreements.</title>
+      <link>https://nrg.fyi/post/ppa/contractual-arrangement-in-hybrid-ppas-agreements/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nrg.fyi/post/ppa/contractual-arrangement-in-hybrid-ppas-agreements/</guid>
+      
+        <description>&lt;p&gt;There are several ways in which a Hybrid PPA can work. Just like the technical set up of each co-located project, there is no one size fits all when it comes to the commercialization aspect. It always comes down to investment goals, risk appetite and the capabilities when it comes to trading assets of each asset owner.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Renewable PPA &amp;amp; Storage Capacity agreement (CSA)/Optimization agreement&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In this scenario, the hybrid arrangement comprises two contracts:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The typical renewable PPA for the generation asset, and&lt;/li&gt;
+&lt;li&gt;A separate contract for the storage assets.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The two assets operate independently and have separate contractual agreements, merely sharing the technical and financial benefits of sitting on the same site. However, some synergies between the contracts do remain.&lt;/p&gt;
+&lt;p&gt;The storage contract is either an Optimization Agreement – which is a route-to-market service arrangement with storage optimization companies where asset owners outsource the bidding strategy of the asset to tap grid services – or a Storage Capacity Agreement. The latter comprises an availability contract where the buyer sets the periods at which the storage asset needs to be readily available to meet the buyer’s needs. In essence, it’s practically renting out the storage asset to a third party, which renders the agreement more transactional (contrary to a service one).&lt;/p&gt;
+&lt;p&gt;Specifically, optimizers share the revenue they achieve with the asset owner. Such service providers either offer a set floor price, which means that the price risk is shared between the optimizer and the asset owner or pay the asset owner a share of the profits monthly. The possibility of a mix of such payment methods is also possible. In negotiation processes, the storage owner will receive various bids from optimizers, and they’ll have to choose their preferred one.&lt;/p&gt;
+&lt;p&gt;Capacity agreements appear more in markets with limited wholesale and ancillary services capabilities. In the US, buyers of capacity contracts are usually utilities that are responsible for the grid’s health, and they typically ‘rent-out’ storage assets from their owner. In exchange, they offer fixed capacity payments – also known as ‘Tolling Payments’, based on the project capacity. In essence, such agreements do not differ dramatically from the contracts deriving from Capacity Markets across Europe, where the grid operator – or the responsible agent – rents out storage asset in case of need (capacity notification), and they offer fixed payments per MW (even if the assets end up never being needed).&lt;/p&gt;
+&lt;p&gt;Payment arrangements and the choice of contracts for the storage asset is extremely linked to the risk appetite of both the buyer and the seller. A useful analogy could be comparing investing in bolds vs the stock market. Sellers who prefer fixed payments with potentially limited upside feel more comfortable with fixed capacity payments, or floor-like optimization contracts. Revenue sharing arrangements mirror investing more in the stock market, where some months revenues could be limited – but some months higher than expected. Payments usually take place on a fixed price per MWh basis for the PPA, and in EUR/MW monthly for the storage asset.&lt;/p&gt;
+&lt;p&gt;Potential off takers for the entire Hybrid PPA with an optimization agreement include utilities with trading capabilities, where they’d like to share the profit from the revenues achieved in the grid services markets. Utilities with grid responsibilities are prime candidates for tolling payments as well.&lt;/p&gt;
+&lt;p&gt;Pros: The core benefit is that the value coming from each asset is more easily identifiable. Often, this has made financing of co-located assets more straight forward because each asset is financed on the back of their own contractual arrangements. In early-stage markets, such structures are more easily digestible from market players and financiers.&lt;/p&gt;
+&lt;p&gt;Cons: It can be challenging to make sure that the two contracts are not impinging one another. For example, what happens when the generation asset is blocking the interconnection and the battery cannot export when needed?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Shaped Renewable PPA&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In this scenario, the two assets share contractual agreements resulting in a Hybrid Shaped Pay As-Produced (PAP) PPA. Such a deal aims to mimic the demand of a particular off taker who’s interested, for example, in structures like Fixed-Hourly Profile (FHP) delivery (typically seen thus far in solar PPAs) or Baseload PPAs (usually seen in wind PPAs). However, the revolution of a Shaped Renewable PPA is that such arrangements could become technology agnostic. This PPA structure incentivizes the delivery of a shaped profile using storage, therefore profile and volume risk are fully assumed by the seller (and mitigated using storage) and is priced accordingly.&lt;/p&gt;
+&lt;p&gt;Pricing could be variable, with different pricing levels for each MWh, depending on when it’s delivered. In some cases, there could be a 12x24 energy rate whereby the contract has different pricing levels, meaning that every hour of every month could have a different price depending on what time the energy is delivered to the metering point, and consequently to the consumer. The pricing takes place on a variable (but agreed) EUR/MWh instead of fixed pricing for all the volumes.&lt;/p&gt;
+&lt;p&gt;Asset owners must be willing to accommodate such a shaped profile and feel comfortable that they can deliver the agreed MWh either through the storage, or through buying back the open position from the market (just like in Baseload PPAs). One of the reasons there may be a need to buy back from the market is because in this scenario the storage asset can also participate in grid services. Therefore, sometimes participation in an ancillary service, for example, could conflict with the delivery of the agreed MWh.&lt;/p&gt;
+&lt;p&gt;Potential buyers could include corporates interested in 24/7 delivery, where there’s an hourly matching of green energy throughout the day. There’s currently some exploration in the market of how portfolios comprised of a mix of solar, wind and storage could deliver baseload (as in, continuous) power to interested corporate parties. In addition, certain utilities with strict mandates could also benefit from such a deal.&lt;/p&gt;
+&lt;p&gt;Pros: The vast advantage of such a structure is that the seller can put a premium next to baseload delivery, while mitigating profile and volume risk. In addition, due to the existence of storage, there’s optionality of how energy can be delivered to the buyer; either in a physical manner through the energy storage, or in financial terms through accessing the spot market. Although this is considered a risk in Baseload PPAs, in a Shaped Profile PPA it becomes an advantage because of the optionality.&lt;/p&gt;
+&lt;p&gt;Cons: Due to volatility, an element of price risk will remain when there’s an open position that needs to settle in the spot market. Depending on how long the periods of the premium rate will be, the asset owner may also need to make extra arrangements to make use of the storage asset when it’s not needed from the buyer, and the synergies between the two need to be very visible to understand the risks.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Blended Renewable &amp;amp; Storage Premium PPA&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Last but not least, this is another Pay-as-Produced (PAP) volume structure where contractual arrangements between the two assets are shared. The Hybrid PPA entails a premium rate for all the MWh to be delivered, which is the main difference with the arrangement.&lt;/p&gt;
+&lt;p&gt;Such structure inherently incorporates the benefits of profile shaping of a PAP PPA, because it takes into consideration the adapted behavior of how the renewable asset will operate together with storage, determining the value of the new profile and therefore its premium pricing.&lt;/p&gt;
 </description>
       
     </item>
