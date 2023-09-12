@@ -10,7 +10,119 @@
   
   <url>
     <loc>https://nrg.fyi/categories/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/denmark/</loc>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/categories/energy-storage/</loc>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/finland/</loc>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/germany/</loc>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/hybrid/</loc>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/post/energy-storage/main-eu-markets-for-co-located-projects/</loc>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/norway/</loc>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/</loc>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/post/</loc>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/solar/</loc>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/spain/</loc>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/storage/</loc>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/sweden/</loc>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/</loc>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/uk/</loc>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/wind/</loc>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -23,28 +135,7 @@
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/hybrid/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://nrg.fyi/tags/policy/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/post/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -66,34 +157,6 @@
   
   <url>
     <loc>https://nrg.fyi/tags/security/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/solar/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/storage/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/wind/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -143,13 +206,6 @@
   
   <url>
     <loc>https://nrg.fyi/tags/energy-distribution/</loc>
-    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/categories/energy-storage/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

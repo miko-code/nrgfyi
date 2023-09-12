@@ -71,3 +71,6 @@ defaultContentLanguage = "en"           # Default language to use
     c-twitter = "https://twitter.com/NRG_fyi"
     e-linkedin = "https://www.linkedin.com/in/oferhaiat/"
 
+  [markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files  
+

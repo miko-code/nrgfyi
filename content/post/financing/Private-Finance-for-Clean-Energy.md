@@ -1,12 +1,11 @@
 ---
 title: "Scaling Up Private Finance for Clean Energy in Emerging and Developing Economies"
-date: 2023-09-10
+date: 2023-09-12
 #lastmod: 2023-04-15T15:43:48+08:00
 tags: ["Solar", "Wind", "Storage", "Hybrid", "Emerging markets", "Regulation", "Policy", "Investment"]
 categories: ["Financing"]
 author: ofer haiat
-draft: true
-
+draft: false
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
 # comment: false
@@ -51,33 +50,50 @@ The respective roles and responsibilities of the different public and private ac
 In many EMDEs, regional governments and municipalities play important roles in electricity and energy provision as well as public transport. Building up clean energy infrastructure can be an important element of broader strategies to attract non-energy investment, especially as firms integrate sustainability criteria into investment decisions and look for locations with access to renewable and other low-carbon sources of electricity and fuels. This is a growing issue for many EMDE firms as they see on the horizon that access to certain major international markets may be shaped by their environmental performance, as with the Carbon Border Adjustment Mechanism in the European Union.
 
 **Type of Investors and return expectations.**
-<div>
+
+
 <table border='1'>
 <tr>
 <td>Entity Type</td>
 <td>Return Spectrum</td>
 </tr>
 <tr>
-<td>Private companies 
-Commercial banks
-Institutional investors</td>
+<td>
+<ul>
+<li>Private companies</li> 
+<li>Commercial banks</lii>
+<li>Institutional investors</li> 
+</ul>
+</td>
 <td>Market rate</td>
 </tr>
 <tr>
-<td>Bilateral, multinational, and national development banks (private sector arms)
-Impact investors</td>
+<td>
+<ul> 
+<li> Bilateral, multinational, and national development banks (private sector arms)</li>
+<li>Impact investors</li>
+</ul>   
+</td>
 <td>Quasi or blended returns
 </td>
 </tr>
 <tr>
-<td>Philanthrope and NGOs
-Bilateral, multilateral, and national development banks (public sector)
-Impact investors (nor seeking market returns)
-Governments</td>
+<td>
+    <ul>
+<li>Philanthrope and NGOs</li> 
+<li>Bilateral, multilateral, and national development banks (public sector)</lii>
+<li>Impact investors (nor seeking market returns)</li> 
+<li>Governments</li> 
+
+</ul>
+   
+
+
+</td>
 <td>Below market rate</td>
 </tr>
 </table>
-</div>
+
 **Regulation and Policies**
 
 New policies in Europe, the United States and other advanced economies are attracting significant new investments in clean energy, spurring technology learning and innovation but making it more challenging for EMDEs to compete for private capital.
@@ -123,17 +139,40 @@ For climate transactions, the ratio tends to be higher (USD 1 to USD 10), compri
 
 Blende finance instruments:
 
-|                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Instrument             | Details                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Concessional Loan      | Concessional senior loan, priced below market; or subordinated loan in liquidation and/or in payments to all senior lenders, also priced concessionally.                                                                                                                                                                                                                                                                                       |
-| Guarantee              | - First loss cover, up to an agreed maximum amount. Can be protected as a (funded or unfunded) guarantee on a single loan, or as a pooled first loss guarantee on a portfolio of loans.
-- Particularly in the context of power generation projects, liquidity support guarantee can be provided on a revolving standby letter of credit (LC), that can be drawn by the project company if the off taker fails to honor its payment obligation. |
-| Concessional equity    | “Lower-priced” equity with a lower internal rate of return to offer affordable equity funding; or subordinated equity with cash waterfall (distribution of all proceeds including exit and dividends according to a waterfall).                                                                                                                                                                                                                |
-| Investment grant       | - Performance-based incentive (PBI): rebates to provide incentives and disincentives to achieve desired outcomes or results (e.g. tie at least a portion of payments to achievement and aim to reward innovation and successful implementation).
-- Viability gap funding (VGF): capital grant provided up to certain percentage of total investment costs for projects that are not commercially viable yet due to long gestation period.      |
-| Bond investment        | Instrument like a loan, can be traded privately or publicly, offshore, or onshore. Can be used with PBIs                                                                                                                                                                                                                                                                                                                                       |
-| Local Currency support | Concessional funds to provide fully or partially subsidized currency hedge; or concessional loan with a subsidized spread (or with a swap-cost buydown) to absorb the high cost of currency hedge.                                                                                                                                                                                                                                             |
+<table border='1'>
+<tr>
+<td>Instrument</td>
+<td>Details</td>
+</tr>
+<tr>
+<td>Concessional Loan</td>
+<td>Concessional senior loan, priced below market; or subordinated loan in liquidation and/or in payments to all senior lenders, also priced concessionally.</td>
+</tr>
+<tr>
+<td>Guarantee</td>
+<td><ul>
+   <li> First loss cover, up to an agreed maximum amount. Can be protected as a (funded or unfunded) guarantee on a single loan, or as a pooled first loss guarantee on a portfolio of loans.</li>
+<li>Particularly in the context of power generation projects, liquidity support guarantee can be provided on a revolving standby letter of credit (LC), that can be drawn by the project company if the off taker fails to honor its payment obligation.</li></ul></td>
+</tr>
+<tr>
+<td>Concessional equity</td>
+<td>“Lower-priced” equity with a lower internal rate of return to offer affordable equity funding; or subordinated equity with cash waterfall (distribution of all proceeds including exit and dividends according to a waterfall).</td>
+</tr>
+<tr>
+<td>Investment grant</td>
+<td>
+    <ul><li>Performance-based incentive (PBI): rebates to provide incentives and disincentives to achieve desired outcomes or results (e.g. tie at least a portion of payments to achievement and aim to reward innovation and successful implementation).</li>
+<li>Viability gap funding (VGF): capital grant provided up to certain percentage of total investment costs for projects that are not commercially viable yet due to long gestation period.</li></ul></td>
+</tr>
+<tr>
+<td>Bond investment</td>
+<td>Instrument like a loan, can be traded privately or publicly, offshore, or onshore. Can be used with PBIs</td>
+</tr>
+<tr>
+<td>Local Currency support</td>
+<td>Concessional funds to provide fully or partially subsidized currency hedge; or concessional loan with a subsidized spread (or with a swap-cost buydown) to absorb the high cost of currency hedge.</td>
+</tr>
+</table>
 
 In addition to (or in combination with) blended finance, new financial instruments and platforms are needed to mobilize private capital at a scale. Green, social, sustainable and sustainability linked (GSSS) bonds have the potential to attract more private climate financing into EMDEs.
 
