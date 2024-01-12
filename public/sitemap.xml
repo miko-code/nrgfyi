@@ -10,27 +10,167 @@
   
   <url>
     <loc>https://nrg.fyi/categories/</loc>
-    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/emerging-markets/</loc>
-    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
+    <loc>https://nrg.fyi/tags/energy-storage/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/flexibility/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/flexibility-improvement/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/categories/grid-management/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/post/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/power-system/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/post/grid-managment/power-systems-felxibility/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/renewable-energy/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://nrg.fyi/categories/financing/</loc>
-    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/hedging/</loc>
+    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://nrg.fyi/tags/hybrid/</loc>
+    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/ppas/</loc>
+    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/revenues/</loc>
+    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/risk-management/</loc>
+    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/solar/</loc>
+    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/storage/</loc>
+    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/tax-equity/</loc>
+    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/post/financing/tax-equity-financing-structures/</loc>
+    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/tax-lease/</loc>
+    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/wind/</loc>
+    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nrg.fyi/tags/emerging-markets/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -44,21 +184,7 @@
   </url>
   
   <url>
-    <loc>https://nrg.fyi/</loc>
-    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://nrg.fyi/tags/policy/</loc>
-    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/post/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -73,34 +199,6 @@
   
   <url>
     <loc>https://nrg.fyi/post/financing/private-finance-for-clean-energy/</loc>
-    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/solar/</loc>
-    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/storage/</loc>
-    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/</loc>
-    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/wind/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -184,13 +282,6 @@
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/ppas/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://nrg.fyi/tags/security/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -199,27 +290,6 @@
   
   <url>
     <loc>https://nrg.fyi/post/ppa/components-driving-ppa-price-and-their-risks./</loc>
-    <lastmod>2023-08-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/hedging/</loc>
-    <lastmod>2023-08-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/revenues/</loc>
-    <lastmod>2023-08-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/risk-management/</loc>
     <lastmod>2023-08-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -331,13 +401,6 @@
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/energy-storage/</loc>
-    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://nrg.fyi/tags/ercot/</loc>
     <lastmod>2022-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -416,13 +479,6 @@
   
   <url>
     <loc>https://nrg.fyi/categories/renewable-energy/</loc>
-    <lastmod>2017-08-30T15:43:48+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/renewable-energy/</loc>
     <lastmod>2017-08-30T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
