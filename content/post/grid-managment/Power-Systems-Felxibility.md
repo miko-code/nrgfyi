@@ -37,7 +37,6 @@ The International Energy Association states that, “Power system flexibility is
 
 **Sources of Flexibility**
 
-![](https://i.ibb.co/9nNXKcW/power-cropped.png)
 
 
 Conventionally, the issue of flexibility is not a major problem because vRES are very limited on the grid. As such, in the past, power system networks achieved flexibility using dispatchable power plants (e.g. gas turbines) which can be rapidly brought on and offline. In the wake of high penetration of vRES, flexibility is also attained through other means. Some of the other techniques of ensuring power system flexibilities include flexible demand (demand side management and demand response), reinforcement of distribution and transmission facilities, energy storage systems, electric vehicles, unit commitment, and generator output curtailment.
