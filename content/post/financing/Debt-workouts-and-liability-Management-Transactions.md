@@ -1,5 +1,5 @@
 ---
-title: "Debt workouts and liability Management Transactions"
+title: "Debt workouts and liability management transactions"
 date: 2024-01-28
 #lastmod: 2023-04-15T15:43:48+08:00
 tags: ["Refinance", "debt", "chapter 11", "Risk Management", "Tax"]
