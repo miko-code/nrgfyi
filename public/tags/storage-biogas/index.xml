@@ -2,21 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Storage, Biogas on NRG.fyi  Fuel Your Knowledge</title>
-    <link>https://nrg.fyi/tags/storage-biogas/</link>
+    <link>http://localhost:1313/tags/storage-biogas/</link>
     <description>Recent content in Storage, Biogas on NRG.fyi  Fuel Your Knowledge</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nrg.fyi/tags/storage-biogas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/storage-biogas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The energy Security Scenario</title>
-      <link>https://nrg.fyi/post/global-energy/the-energy-security-scenario/</link>
+      <link>http://localhost:1313/post/global-energy/the-energy-security-scenario/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/post/global-energy/the-energy-security-scenario/</guid>
-      <description>This is a summary of the Energy Security Scenarios report made by Shell.
-Shell created 3 different energy scenarios - Waves, Islands and Sky 1.5. Each of these was built around possible approaches to climate change action as the world emerged from the COVID-19 pandemic.
-Waves - Waves assumed that society would prioritize repairing the economy. In Waves this focus on wealth pushes other societal and environmental pressures into the background, until their relative neglect provokes backlash reactions.</description>
+      <guid>http://localhost:1313/post/global-energy/the-energy-security-scenario/</guid>
+      <description>This is a summary of the Energy Security Scenarios report made by Shell.&#xA;Shell created 3 different energy scenarios - Waves, Islands and Sky 1.5. Each of these was built around possible approaches to climate change action as the world emerged from the COVID-19 pandemic.&#xA;Waves - Waves assumed that society would prioritize repairing the economy. In Waves this focus on wealth pushes other societal and environmental pressures into the background, until their relative neglect provokes backlash reactions.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,547 +1,667 @@
-<?xml-stylesheet type="text/xsl" href="https://nrg.fyi/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://nrg.fyi/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/financing/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/hedging/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/hybrid/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/lease/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/financing/ppa-and-net-metering-credit-purchase-agreements/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/ppas/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/revenues/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/risk-management/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/solar/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/storage/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/tax/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/tax-equity/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/wind/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/chapter-11/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/chapter-11/</loc>
+    <loc>http://localhost:1313/tags/debt/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/debt/</loc>
+    <loc>http://localhost:1313/post/financing/debt-workouts-and-liability-management-transactions/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/post/financing/debt-workouts-and-liability-management-transactions/</loc>
+    <loc>http://localhost:1313/tags/refinance/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/categories/financing/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/post/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/refinance/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/risk-management/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/tax/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/energy-storage/</loc>
+    <loc>http://localhost:1313/tags/energy-storage/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/flexibility/</loc>
+    <loc>http://localhost:1313/tags/flexibility/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/flexibility-improvement/</loc>
+    <loc>http://localhost:1313/tags/flexibility-improvement/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/categories/grid-management/</loc>
+    <loc>http://localhost:1313/categories/grid-management/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/power-system/</loc>
+    <loc>http://localhost:1313/tags/power-system/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/post/grid-managment/power-systems-felxibility/</loc>
+    <loc>http://localhost:1313/post/grid-managment/power-systems-felxibility/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/renewable-energy/</loc>
+    <loc>http://localhost:1313/tags/renewable-energy/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/hedging/</loc>
+    <loc>http://localhost:1313/post/financing/tax-equity-financing-structures/</loc>
     <lastmod>2023-09-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/hybrid/</loc>
+    <loc>http://localhost:1313/tags/tax-lease/</loc>
     <lastmod>2023-09-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/ppas/</loc>
-    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/revenues/</loc>
-    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/solar/</loc>
-    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/storage/</loc>
-    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/tax-equity/</loc>
-    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/post/financing/tax-equity-financing-structures/</loc>
-    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/tax-lease/</loc>
-    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/wind/</loc>
-    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nrg.fyi/tags/emerging-markets/</loc>
+    <loc>http://localhost:1313/tags/emerging-markets/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/investment/</loc>
+    <loc>http://localhost:1313/tags/investment/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/policy/</loc>
+    <loc>http://localhost:1313/tags/policy/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/regulation/</loc>
+    <loc>http://localhost:1313/tags/regulation/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/post/financing/private-finance-for-clean-energy/</loc>
+    <loc>http://localhost:1313/post/financing/private-finance-for-clean-energy/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/denmark/</loc>
+    <loc>http://localhost:1313/tags/denmark/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/categories/energy-storage/</loc>
+    <loc>http://localhost:1313/categories/energy-storage/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/finland/</loc>
+    <loc>http://localhost:1313/tags/finland/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/germany/</loc>
+    <loc>http://localhost:1313/tags/germany/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/post/energy-storage/main-eu-markets-for-co-located-projects/</loc>
+    <loc>http://localhost:1313/post/energy-storage/main-eu-markets-for-co-located-projects/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/norway/</loc>
+    <loc>http://localhost:1313/tags/norway/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/spain/</loc>
+    <loc>http://localhost:1313/tags/spain/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/sweden/</loc>
+    <loc>http://localhost:1313/tags/sweden/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/uk/</loc>
+    <loc>http://localhost:1313/tags/uk/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/post/ppa/contractual-arrangement-in-hybrid-ppas-agreements/</loc>
+    <loc>http://localhost:1313/post/ppa/contractual-arrangement-in-hybrid-ppas-agreements/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/categories/ppa/</loc>
+    <loc>http://localhost:1313/categories/ppa/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/security/</loc>
+    <loc>http://localhost:1313/tags/security/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/post/ppa/components-driving-ppa-price-and-their-risks./</loc>
+    <loc>http://localhost:1313/post/ppa/components-driving-ppa-price-and-their-risks./</loc>
     <lastmod>2023-08-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/ci/</loc>
+    <loc>http://localhost:1313/tags/ci/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/energy/</loc>
+    <loc>http://localhost:1313/tags/energy/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/energy-distribution/</loc>
+    <loc>http://localhost:1313/tags/energy-distribution/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/ev/</loc>
+    <loc>http://localhost:1313/tags/ev/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/post/energy-storage/future-energy-storage-and-distribution/</loc>
+    <loc>http://localhost:1313/post/energy-storage/future-energy-storage-and-distribution/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/grid-efficiency/</loc>
+    <loc>http://localhost:1313/tags/grid-efficiency/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/grid-stability/</loc>
+    <loc>http://localhost:1313/tags/grid-stability/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/microgrid/</loc>
+    <loc>http://localhost:1313/tags/microgrid/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/smart-energy/</loc>
+    <loc>http://localhost:1313/tags/smart-energy/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/post/energy-storage/the-value-of-energy-storage-in-europe/</loc>
+    <loc>http://localhost:1313/post/energy-storage/the-value-of-energy-storage-in-europe/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/u.s/</loc>
+    <loc>http://localhost:1313/tags/u.s/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/value-stacking/</loc>
+    <loc>http://localhost:1313/tags/value-stacking/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/categories/global-energy/</loc>
+    <loc>http://localhost:1313/categories/global-energy/</loc>
     <lastmod>2023-05-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/storage-biogas/</loc>
+    <loc>http://localhost:1313/tags/storage-biogas/</loc>
     <lastmod>2023-05-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/post/global-energy/the-energy-security-scenario/</loc>
+    <loc>http://localhost:1313/post/global-energy/the-energy-security-scenario/</loc>
     <lastmod>2023-05-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/ercot/</loc>
+    <loc>http://localhost:1313/tags/ercot/</loc>
     <lastmod>2022-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/post/energy-storage/energy-storage-market/</loc>
+    <loc>http://localhost:1313/post/energy-storage/energy-storage-market/</loc>
     <lastmod>2022-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/rto/</loc>
+    <loc>http://localhost:1313/tags/rto/</loc>
     <lastmod>2022-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/post/energy-storage/battery-energy-storage-use-cases/</loc>
+    <loc>http://localhost:1313/post/energy-storage/battery-energy-storage-use-cases/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/capacity/</loc>
+    <loc>http://localhost:1313/tags/capacity/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/frequency-control/</loc>
+    <loc>http://localhost:1313/tags/frequency-control/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/post/microgrid/abstracting-the-complexity-of-microgrids/</loc>
+    <loc>http://localhost:1313/post/microgrid/abstracting-the-complexity-of-microgrids/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/categories/microgrid/</loc>
+    <loc>http://localhost:1313/categories/microgrid/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/soalr/</loc>
+    <loc>http://localhost:1313/tags/soalr/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/cyber-security/</loc>
+    <loc>http://localhost:1313/tags/english/</loc>
+    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/english/</loc>
+    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/other/english-preview/</loc>
+    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/index/</loc>
+    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/preview/</loc>
+    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/tag-2/</loc>
+    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/cyber-security/</loc>
     <lastmod>2017-08-30T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/insurance/</loc>
+    <loc>http://localhost:1313/tags/insurance/</loc>
     <lastmod>2017-08-30T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/categories/renewable-energy/</loc>
+    <loc>http://localhost:1313/categories/renewable-energy/</loc>
     <lastmod>2017-08-30T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/categories/risk-management/</loc>
+    <loc>http://localhost:1313/categories/risk-management/</loc>
     <lastmod>2017-08-30T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/post/risk-managment/silent-cyberwhat-to-look-for/</loc>
+    <loc>http://localhost:1313/post/draft/</loc>
     <lastmod>2017-08-30T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/post/renewable-energy/the-virginia-clean-energy-act/</loc>
+    <loc>http://localhost:1313/post/risk-managment/silent-cyberwhat-to-look-for/</loc>
     <lastmod>2017-08-30T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nrg.fyi/tags/viriginia-u.s./</loc>
+    <loc>http://localhost:1313/post/renewable-energy/the-virginia-clean-energy-act/</loc>
+    <lastmod>2017-08-30T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/viriginia-u.s./</loc>
+    <lastmod>2017-08-30T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/other/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/development/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/development/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/go/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/golang/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/golang/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/templates/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/themes/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -2,38 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financing on NRG.fyi  Fuel Your Knowledge</title>
-    <link>https://nrg.fyi/categories/financing/</link>
+    <link>http://localhost:1313/categories/financing/</link>
     <description>Recent content in Financing on NRG.fyi  Fuel Your Knowledge</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://nrg.fyi/categories/financing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/financing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PPA and Net Metering Credit Purchase Agreements</title>
+      <link>http://localhost:1313/post/financing/ppa-and-net-metering-credit-purchase-agreements/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/financing/ppa-and-net-metering-credit-purchase-agreements/</guid>
+      <description>A Commercial &amp;amp; Industrial (C&amp;amp;I) Power Purchase Agreement (PPA) should be a simple contract whereby a host agrees to purchase power from a system owned by a project company – this should include project company’ obligations that naturally relate to providing such a service, like installing the system and a meter and maintaining insurance. A Net Metering Credit Purchase Agreement should look exactly like a PPA, except that instead of purchasing power, the host purchases net metering credits – and the system will not be co-located with the host (so no access rights, installation requirements, or any other provision relating to the site will be included).</description>
+    </item>
     <item>
       <title>Debt workouts and liability management transactions</title>
-      <link>https://nrg.fyi/post/financing/debt-workouts-and-liability-management-transactions/</link>
+      <link>http://localhost:1313/post/financing/debt-workouts-and-liability-management-transactions/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/post/financing/debt-workouts-and-liability-management-transactions/</guid>
+      <guid>http://localhost:1313/post/financing/debt-workouts-and-liability-management-transactions/</guid>
       <description>Relaxed credit terms have created opportunities for priming financing outside Chapter 11. In today’s market, drafting holes in sponsor-friendly credit agreements are exploited to avoid the cost and dislocation of a Chapter 11 process. The current trend is an evolution from one type of Liability Management Transaction (LMT), the dropdowns of collateral, toward the other type of LMT, senior new money and non-ratable up tier exchanges. A LMT begins with creditors holding common positions and having common interests in the capital structure identifying each other and forming an ad hoc group.</description>
     </item>
-    
     <item>
       <title>Tax equity financing structures</title>
-      <link>https://nrg.fyi/post/financing/tax-equity-financing-structures/</link>
+      <link>http://localhost:1313/post/financing/tax-equity-financing-structures/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/post/financing/tax-equity-financing-structures/</guid>
+      <guid>http://localhost:1313/post/financing/tax-equity-financing-structures/</guid>
       <description>The two main tax equity structures are sale/leasebacks and partnership/flips. The ITC is a one-time credit against income tax that is based on the amount invested in a facility. The ITC is subject to recapture if, within five years after a facility is “placed in service,” the taxpayer sells or otherwise disposes of the project or stops using it in a manner that qualifies for the credit – like taking it out of service or permitting the PPA off taker to operate and maintain the project.</description>
     </item>
-    
     <item>
       <title>Scaling Up Private Finance for Clean Energy in Emerging and Developing Economies</title>
-      <link>https://nrg.fyi/post/financing/private-finance-for-clean-energy/</link>
+      <link>http://localhost:1313/post/financing/private-finance-for-clean-energy/</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/post/financing/private-finance-for-clean-energy/</guid>
-      <description>This intend to be a summary post of the “Scaling up Private Finance for Clean Energy in Emerging and Developing Economies” published by the IEA and IFC The Emerging Markets and Developing Economics (EMDEs) group contains the following territories: Africa, Developing Europe, Eurasia, Latin America, the Middle East and South and Southeast Asia.
-In EMDEs there are 775 million people that lack access to electricity and 2.4B that lack access to clean cooking fuels.</description>
+      <guid>http://localhost:1313/post/financing/private-finance-for-clean-energy/</guid>
+      <description>This intend to be a summary post of the “Scaling up Private Finance for Clean Energy in Emerging and Developing Economies” published by the IEA and IFC The Emerging Markets and Developing Economics (EMDEs) group contains the following territories: Africa, Developing Europe, Eurasia, Latin America, the Middle East and South and Southeast Asia.&#xA;In EMDEs there are 775 million people that lack access to electricity and 2.4B that lack access to clean cooking fuels.</description>
     </item>
-    
   </channel>
 </rss>

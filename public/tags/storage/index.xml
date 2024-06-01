@@ -2,71 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Storage on NRG.fyi  Fuel Your Knowledge</title>
-    <link>https://nrg.fyi/tags/storage/</link>
+    <link>http://localhost:1313/tags/storage/</link>
     <description>Recent content in Storage on NRG.fyi  Fuel Your Knowledge</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nrg.fyi/tags/storage/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/storage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PPA and Net Metering Credit Purchase Agreements</title>
+      <link>http://localhost:1313/post/financing/ppa-and-net-metering-credit-purchase-agreements/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/financing/ppa-and-net-metering-credit-purchase-agreements/</guid>
+      <description>A Commercial &amp;amp; Industrial (C&amp;amp;I) Power Purchase Agreement (PPA) should be a simple contract whereby a host agrees to purchase power from a system owned by a project company – this should include project company’ obligations that naturally relate to providing such a service, like installing the system and a meter and maintaining insurance. A Net Metering Credit Purchase Agreement should look exactly like a PPA, except that instead of purchasing power, the host purchases net metering credits – and the system will not be co-located with the host (so no access rights, installation requirements, or any other provision relating to the site will be included).</description>
+    </item>
     <item>
       <title>Tax equity financing structures</title>
-      <link>https://nrg.fyi/post/financing/tax-equity-financing-structures/</link>
+      <link>http://localhost:1313/post/financing/tax-equity-financing-structures/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/post/financing/tax-equity-financing-structures/</guid>
+      <guid>http://localhost:1313/post/financing/tax-equity-financing-structures/</guid>
       <description>The two main tax equity structures are sale/leasebacks and partnership/flips. The ITC is a one-time credit against income tax that is based on the amount invested in a facility. The ITC is subject to recapture if, within five years after a facility is “placed in service,” the taxpayer sells or otherwise disposes of the project or stops using it in a manner that qualifies for the credit – like taking it out of service or permitting the PPA off taker to operate and maintain the project.</description>
     </item>
-    
     <item>
       <title>Scaling Up Private Finance for Clean Energy in Emerging and Developing Economies</title>
-      <link>https://nrg.fyi/post/financing/private-finance-for-clean-energy/</link>
+      <link>http://localhost:1313/post/financing/private-finance-for-clean-energy/</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/post/financing/private-finance-for-clean-energy/</guid>
-      <description>This intend to be a summary post of the “Scaling up Private Finance for Clean Energy in Emerging and Developing Economies” published by the IEA and IFC The Emerging Markets and Developing Economics (EMDEs) group contains the following territories: Africa, Developing Europe, Eurasia, Latin America, the Middle East and South and Southeast Asia.
-In EMDEs there are 775 million people that lack access to electricity and 2.4B that lack access to clean cooking fuels.</description>
+      <guid>http://localhost:1313/post/financing/private-finance-for-clean-energy/</guid>
+      <description>This intend to be a summary post of the “Scaling up Private Finance for Clean Energy in Emerging and Developing Economies” published by the IEA and IFC The Emerging Markets and Developing Economics (EMDEs) group contains the following territories: Africa, Developing Europe, Eurasia, Latin America, the Middle East and South and Southeast Asia.&#xA;In EMDEs there are 775 million people that lack access to electricity and 2.4B that lack access to clean cooking fuels.</description>
     </item>
-    
     <item>
       <title>Main EU Markets for co-located projects</title>
-      <link>https://nrg.fyi/post/energy-storage/main-eu-markets-for-co-located-projects/</link>
+      <link>http://localhost:1313/post/energy-storage/main-eu-markets-for-co-located-projects/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/post/energy-storage/main-eu-markets-for-co-located-projects/</guid>
-      <description>UK
-The main drivers for implements hybrid projects in the UK are:
- Advanced grid services: The UK comprises the most advanced standalone battery storage market in Europe, having pioneered since 2017 through the proliferation of grid-services. Mature Industry: Due to vast commercialization expertise, the industry is the most welcoming when it comes to innovation such as co-located assets and Hybrid PPAs.  The UK is Europe’s largest energy storage market – by far.</description>
+      <guid>http://localhost:1313/post/energy-storage/main-eu-markets-for-co-located-projects/</guid>
+      <description>UK&#xA;The main drivers for implements hybrid projects in the UK are:&#xA;Advanced grid services: The UK comprises the most advanced standalone battery storage market in Europe, having pioneered since 2017 through the proliferation of grid-services. Mature Industry: Due to vast commercialization expertise, the industry is the most welcoming when it comes to innovation such as co-located assets and Hybrid PPAs. The UK is Europe’s largest energy storage market – by far.</description>
     </item>
-    
     <item>
       <title>Contractual arrangement in Hybrid PPA’s agreements.</title>
-      <link>https://nrg.fyi/post/ppa/contractual-arrangement-in-hybrid-ppas-agreements/</link>
+      <link>http://localhost:1313/post/ppa/contractual-arrangement-in-hybrid-ppas-agreements/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/post/ppa/contractual-arrangement-in-hybrid-ppas-agreements/</guid>
-      <description>There are several ways in which a Hybrid PPA can work. Just like the technical set up of each co-located project, there is no one size fits all when it comes to the commercialization aspect. It always comes down to investment goals, risk appetite and the capabilities when it comes to trading assets of each asset owner.
-Renewable PPA &amp;amp; Storage Capacity agreement (CSA)/Optimization agreement
-In this scenario, the hybrid arrangement comprises two contracts:</description>
+      <guid>http://localhost:1313/post/ppa/contractual-arrangement-in-hybrid-ppas-agreements/</guid>
+      <description>There are several ways in which a Hybrid PPA can work. Just like the technical set up of each co-located project, there is no one size fits all when it comes to the commercialization aspect. It always comes down to investment goals, risk appetite and the capabilities when it comes to trading assets of each asset owner.&#xA;Renewable PPA &amp;amp; Storage Capacity agreement (CSA)/Optimization agreement&#xA;In this scenario, the hybrid arrangement comprises two contracts:</description>
     </item>
-    
     <item>
       <title>Components driving PPA price and their risks.</title>
-      <link>https://nrg.fyi/post/ppa/components-driving-ppa-price-and-their-risks./</link>
+      <link>http://localhost:1313/post/ppa/components-driving-ppa-price-and-their-risks./</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/post/ppa/components-driving-ppa-price-and-their-risks./</guid>
-      <description>PPA structures are evolving, and the challenge of Hybrid PPAs lies behind understanding and quantifying the benefits of flexibility, and how it’s reflected in the pricing. The risk profile of the asset is the core determinant of its fair value. And since energy storage changes the risk profile of the generation part, this would need to be reflected in the price.
-To understand what’s driving the Hybrid PAP pricing, it would be better to go through how benchmark PPA prices are modelled, and the risk components driving the fair value of the energy.</description>
+      <guid>http://localhost:1313/post/ppa/components-driving-ppa-price-and-their-risks./</guid>
+      <description>PPA structures are evolving, and the challenge of Hybrid PPAs lies behind understanding and quantifying the benefits of flexibility, and how it’s reflected in the pricing. The risk profile of the asset is the core determinant of its fair value. And since energy storage changes the risk profile of the generation part, this would need to be reflected in the price.&#xA;To understand what’s driving the Hybrid PAP pricing, it would be better to go through how benchmark PPA prices are modelled, and the risk components driving the fair value of the energy.</description>
     </item>
-    
     <item>
       <title>The Value of Energy storage in Europe</title>
-      <link>https://nrg.fyi/post/energy-storage/the-value-of-energy-storage-in-europe/</link>
+      <link>http://localhost:1313/post/energy-storage/the-value-of-energy-storage-in-europe/</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/post/energy-storage/the-value-of-energy-storage-in-europe/</guid>
-      <description>Energy storage has been deemed one of the missing links of the energy transition for quite some time now. After the vast deployment of standalone storage assets, which tirelessly (and swiftly) respond for duty when the grid needs it, the long-awaited next phase of renewables-plus storage is finally approaching the mainstream!
-The term ‘renewables-plus-storage colocation’ has climbed the ladder in the renewable’s vocabulary, particularly in the merchant renewables sphere. But combining two business models requires the resolution of multiple riddles.</description>
+      <guid>http://localhost:1313/post/energy-storage/the-value-of-energy-storage-in-europe/</guid>
+      <description>Energy storage has been deemed one of the missing links of the energy transition for quite some time now. After the vast deployment of standalone storage assets, which tirelessly (and swiftly) respond for duty when the grid needs it, the long-awaited next phase of renewables-plus storage is finally approaching the mainstream!&#xA;The term ‘renewables-plus-storage colocation’ has climbed the ladder in the renewable’s vocabulary, particularly in the merchant renewables sphere. But combining two business models requires the resolution of multiple riddles.</description>
     </item>
-    
   </channel>
 </rss>

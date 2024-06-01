@@ -2,190 +2,151 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on NRG.fyi  Fuel Your Knowledge</title>
-    <link>https://nrg.fyi/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on NRG.fyi  Fuel Your Knowledge</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://nrg.fyi/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>chapter 11</title>
-      <link>https://nrg.fyi/tags/chapter-11/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/chapter-11/</guid>
+      <title>Hedging</title>
+      <link>http://localhost:1313/tags/hedging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hedging/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>debt</title>
-      <link>https://nrg.fyi/tags/debt/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/debt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Refinance</title>
-      <link>https://nrg.fyi/tags/refinance/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/refinance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Risk Management</title>
-      <link>https://nrg.fyi/tags/risk-management/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/risk-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tax</title>
-      <link>https://nrg.fyi/tags/tax/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/tax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>energy storage</title>
-      <link>https://nrg.fyi/tags/energy-storage/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/energy-storage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flexibility</title>
-      <link>https://nrg.fyi/tags/flexibility/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/flexibility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flexibility Improvement</title>
-      <link>https://nrg.fyi/tags/flexibility-improvement/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/flexibility-improvement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power System</title>
-      <link>https://nrg.fyi/tags/power-system/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/power-system/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Renewable Energy</title>
-      <link>https://nrg.fyi/tags/renewable-energy/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/renewable-energy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hedging</title>
-      <link>https://nrg.fyi/tags/hedging/</link>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/hedging/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Hybrid</title>
-      <link>https://nrg.fyi/tags/hybrid/</link>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/hybrid/</guid>
+      <link>http://localhost:1313/tags/hybrid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hybrid/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Lease</title>
+      <link>http://localhost:1313/tags/lease/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lease/</guid>
+      <description></description>
+    </item>
     <item>
       <title>PPA’s</title>
-      <link>https://nrg.fyi/tags/ppas/</link>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/ppas/</guid>
+      <link>http://localhost:1313/tags/ppas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ppas/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>revenues</title>
-      <link>https://nrg.fyi/tags/revenues/</link>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/revenues/</guid>
+      <title>Revenues</title>
+      <link>http://localhost:1313/tags/revenues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/revenues/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>solar</title>
-      <link>https://nrg.fyi/tags/solar/</link>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/solar/</guid>
+      <title>Risk Management</title>
+      <link>http://localhost:1313/tags/risk-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/risk-management/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Solar</title>
+      <link>http://localhost:1313/tags/solar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/solar/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Storage</title>
-      <link>https://nrg.fyi/tags/storage/</link>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/storage/</guid>
+      <link>http://localhost:1313/tags/storage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/storage/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Tax equity</title>
-      <link>https://nrg.fyi/tags/tax-equity/</link>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/tax-equity/</guid>
+      <title>Tax</title>
+      <link>http://localhost:1313/tags/tax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tax/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Tax, Lease</title>
-      <link>https://nrg.fyi/tags/tax-lease/</link>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/tax-lease/</guid>
+      <title>Tax Equity</title>
+      <link>http://localhost:1313/tags/tax-equity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tax-equity/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Wind</title>
-      <link>https://nrg.fyi/tags/wind/</link>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/wind/</guid>
+      <link>http://localhost:1313/tags/wind/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wind/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Emerging markets</title>
-      <link>https://nrg.fyi/tags/emerging-markets/</link>
-      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/tags/emerging-markets/</guid>
+      <title>Chapter 11</title>
+      <link>http://localhost:1313/tags/chapter-11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/chapter-11/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Debt</title>
+      <link>http://localhost:1313/tags/debt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/debt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Refinance</title>
+      <link>http://localhost:1313/tags/refinance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/refinance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Energy Storage</title>
+      <link>http://localhost:1313/tags/energy-storage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/energy-storage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flexibility</title>
+      <link>http://localhost:1313/tags/flexibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/flexibility/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flexibility Improvement</title>
+      <link>http://localhost:1313/tags/flexibility-improvement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/flexibility-improvement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Power System</title>
+      <link>http://localhost:1313/tags/power-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/power-system/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Renewable Energy</title>
+      <link>http://localhost:1313/tags/renewable-energy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/renewable-energy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tax, Lease</title>
+      <link>http://localhost:1313/tags/tax-lease/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tax-lease/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

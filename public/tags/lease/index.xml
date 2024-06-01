@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lease on NRG.fyi  Fuel Your Knowledge</title>
+    <link>http://localhost:1313/tags/lease/</link>
+    <description>Recent content in Lease on NRG.fyi  Fuel Your Knowledge</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lease/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PPA and Net Metering Credit Purchase Agreements</title>
+      <link>http://localhost:1313/post/financing/ppa-and-net-metering-credit-purchase-agreements/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/financing/ppa-and-net-metering-credit-purchase-agreements/</guid>
+      <description>A Commercial &amp;amp; Industrial (C&amp;amp;I) Power Purchase Agreement (PPA) should be a simple contract whereby a host agrees to purchase power from a system owned by a project company – this should include project company’ obligations that naturally relate to providing such a service, like installing the system and a meter and maintaining insurance. A Net Metering Credit Purchase Agreement should look exactly like a PPA, except that instead of purchasing power, the host purchases net metering credits – and the system will not be co-located with the host (so no access rights, installation requirements, or any other provision relating to the site will be included).</description>
+    </item>
+  </channel>
+</rss>

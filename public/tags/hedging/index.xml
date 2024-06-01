@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hedging on NRG.fyi  Fuel Your Knowledge</title>
-    <link>https://nrg.fyi/tags/hedging/</link>
-    <description>Recent content in hedging on NRG.fyi  Fuel Your Knowledge</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Hedging on NRG.fyi  Fuel Your Knowledge</title>
+    <link>http://localhost:1313/tags/hedging/</link>
+    <description>Recent content in Hedging on NRG.fyi  Fuel Your Knowledge</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nrg.fyi/tags/hedging/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hedging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PPA and Net Metering Credit Purchase Agreements</title>
+      <link>http://localhost:1313/post/financing/ppa-and-net-metering-credit-purchase-agreements/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/financing/ppa-and-net-metering-credit-purchase-agreements/</guid>
+      <description>A Commercial &amp;amp; Industrial (C&amp;amp;I) Power Purchase Agreement (PPA) should be a simple contract whereby a host agrees to purchase power from a system owned by a project company – this should include project company’ obligations that naturally relate to providing such a service, like installing the system and a meter and maintaining insurance. A Net Metering Credit Purchase Agreement should look exactly like a PPA, except that instead of purchasing power, the host purchases net metering credits – and the system will not be co-located with the host (so no access rights, installation requirements, or any other provision relating to the site will be included).</description>
+    </item>
     <item>
       <title>Tax equity financing structures</title>
-      <link>https://nrg.fyi/post/financing/tax-equity-financing-structures/</link>
+      <link>http://localhost:1313/post/financing/tax-equity-financing-structures/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/post/financing/tax-equity-financing-structures/</guid>
+      <guid>http://localhost:1313/post/financing/tax-equity-financing-structures/</guid>
       <description>The two main tax equity structures are sale/leasebacks and partnership/flips. The ITC is a one-time credit against income tax that is based on the amount invested in a facility. The ITC is subject to recapture if, within five years after a facility is “placed in service,” the taxpayer sells or otherwise disposes of the project or stops using it in a manner that qualifies for the credit – like taking it out of service or permitting the PPA off taker to operate and maintain the project.</description>
     </item>
-    
     <item>
       <title>Components driving PPA price and their risks.</title>
-      <link>https://nrg.fyi/post/ppa/components-driving-ppa-price-and-their-risks./</link>
+      <link>http://localhost:1313/post/ppa/components-driving-ppa-price-and-their-risks./</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/post/ppa/components-driving-ppa-price-and-their-risks./</guid>
-      <description>PPA structures are evolving, and the challenge of Hybrid PPAs lies behind understanding and quantifying the benefits of flexibility, and how it’s reflected in the pricing. The risk profile of the asset is the core determinant of its fair value. And since energy storage changes the risk profile of the generation part, this would need to be reflected in the price.
-To understand what’s driving the Hybrid PAP pricing, it would be better to go through how benchmark PPA prices are modelled, and the risk components driving the fair value of the energy.</description>
+      <guid>http://localhost:1313/post/ppa/components-driving-ppa-price-and-their-risks./</guid>
+      <description>PPA structures are evolving, and the challenge of Hybrid PPAs lies behind understanding and quantifying the benefits of flexibility, and how it’s reflected in the pricing. The risk profile of the asset is the core determinant of its fair value. And since energy storage changes the risk profile of the generation part, this would need to be reflected in the price.&#xA;To understand what’s driving the Hybrid PAP pricing, it would be better to go through how benchmark PPA prices are modelled, and the risk components driving the fair value of the energy.</description>
     </item>
-    
     <item>
       <title>Battery energy storage use cases and outcome revenues streams</title>
-      <link>https://nrg.fyi/post/energy-storage/battery-energy-storage-use-cases/</link>
+      <link>http://localhost:1313/post/energy-storage/battery-energy-storage-use-cases/</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/post/energy-storage/battery-energy-storage-use-cases/</guid>
+      <guid>http://localhost:1313/post/energy-storage/battery-energy-storage-use-cases/</guid>
       <description>Energy storage has been around for a long time. Alessandro Volta invented the battery in 1800. Until recently, Batteries used to provide power at those locations where no grid connection is present, like for starter motors cars, mobile phones, laptops and other electronic devices or for emergency power or computer servers. With the last innovations in the energy storage industry, it is clear that energy storage technology and solutions will become crucial element in our life.</description>
     </item>
-    
   </channel>
 </rss>

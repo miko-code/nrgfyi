@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>soalr on NRG.fyi  Fuel Your Knowledge</title>
-    <link>https://nrg.fyi/tags/soalr/</link>
-    <description>Recent content in soalr on NRG.fyi  Fuel Your Knowledge</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Soalr on NRG.fyi  Fuel Your Knowledge</title>
+    <link>http://localhost:1313/tags/soalr/</link>
+    <description>Recent content in Soalr on NRG.fyi  Fuel Your Knowledge</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nrg.fyi/tags/soalr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/soalr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abstracting the complexity of microgrids</title>
-      <link>https://nrg.fyi/post/microgrid/abstracting-the-complexity-of-microgrids/</link>
+      <link>http://localhost:1313/post/microgrid/abstracting-the-complexity-of-microgrids/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/post/microgrid/abstracting-the-complexity-of-microgrids/</guid>
-      <description>It is not secret anymore, that the way we are using energy cause damage to our planet. In 2021 we expect to consume 40x energy compare to 1900.
- Due to the global warming we will demand 3x energy by 2050 compare today.
-To adjust to the new energy reality, organizations are under growing pressure to participate in the globalization effort reduce emission and avoid global warming. Over the past decades the cost of electricity distribution increased by 50% in the U.</description>
+      <guid>http://localhost:1313/post/microgrid/abstracting-the-complexity-of-microgrids/</guid>
+      <description>It is not secret anymore, that the way we are using energy cause damage to our planet. In 2021 we expect to consume 40x energy compare to 1900.&#xA;Due to the global warming we will demand 3x energy by 2050 compare today.&#xA;To adjust to the new energy reality, organizations are under growing pressure to participate in the globalization effort reduce emission and avoid global warming. Over the past decades the cost of electricity distribution increased by 50% in the U.</description>
     </item>
-    
   </channel>
 </rss>

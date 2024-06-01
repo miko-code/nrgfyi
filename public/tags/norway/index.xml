@@ -2,21 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Norway on NRG.fyi  Fuel Your Knowledge</title>
-    <link>https://nrg.fyi/tags/norway/</link>
+    <link>http://localhost:1313/tags/norway/</link>
     <description>Recent content in Norway on NRG.fyi  Fuel Your Knowledge</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nrg.fyi/tags/norway/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/norway/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main EU Markets for co-located projects</title>
-      <link>https://nrg.fyi/post/energy-storage/main-eu-markets-for-co-located-projects/</link>
+      <link>http://localhost:1313/post/energy-storage/main-eu-markets-for-co-located-projects/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nrg.fyi/post/energy-storage/main-eu-markets-for-co-located-projects/</guid>
-      <description>UK
-The main drivers for implements hybrid projects in the UK are:
- Advanced grid services: The UK comprises the most advanced standalone battery storage market in Europe, having pioneered since 2017 through the proliferation of grid-services. Mature Industry: Due to vast commercialization expertise, the industry is the most welcoming when it comes to innovation such as co-located assets and Hybrid PPAs.  The UK is Europe’s largest energy storage market – by far.</description>
+      <guid>http://localhost:1313/post/energy-storage/main-eu-markets-for-co-located-projects/</guid>
+      <description>UK&#xA;The main drivers for implements hybrid projects in the UK are:&#xA;Advanced grid services: The UK comprises the most advanced standalone battery storage market in Europe, having pioneered since 2017 through the proliferation of grid-services. Mature Industry: Due to vast commercialization expertise, the industry is the most welcoming when it comes to innovation such as co-located assets and Hybrid PPAs. The UK is Europe’s largest energy storage market – by far.</description>
     </item>
-    
   </channel>
 </rss>
