@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Viriginia, U.S. on NRG.fyi  Fuel Your Knowledge</title>
-    <link>http://localhost:1313/tags/viriginia-u.s./</link>
+    <link>https://nrg.fyi/tags/viriginia-u.s./</link>
     <description>Recent content in Viriginia, U.S. on NRG.fyi  Fuel Your Knowledge</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 30 Aug 2017 15:43:48 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/viriginia-u.s./index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nrg.fyi/tags/viriginia-u.s./index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Virginia Clean Energy Act</title>
-      <link>http://localhost:1313/post/renewable-energy/the-virginia-clean-energy-act/</link>
+      <link>https://nrg.fyi/post/regulation/the-virginia-clean-energy-act/</link>
       <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
-      <guid>http://localhost:1313/post/renewable-energy/the-virginia-clean-energy-act/</guid>
+      <guid>https://nrg.fyi/post/regulation/the-virginia-clean-energy-act/</guid>
       <description>According to the US EIA (Energy Information Association), current Virginia’s energy production stand on 8.5GW. 53% from Natural Gas, 31% from nuclear power, 10% from coal fueled and nearly 7% from Renewable Energy (RE).&#xA;On April 12, 2020 , Governor Ralph Northam signed the Virginia Clean Energy Act (VCEA), to accelerate Virginia’s transition to a clean energy environment.&#xA;The VCEA sets Virginia on the path for being 100% carbon free by 2045.</description>
     </item>
   </channel>

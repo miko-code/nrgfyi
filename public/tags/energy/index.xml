@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Energy on NRG.fyi  Fuel Your Knowledge</title>
-    <link>http://localhost:1313/tags/energy/</link>
+    <link>https://nrg.fyi/tags/energy/</link>
     <description>Recent content in Energy on NRG.fyi  Fuel Your Knowledge</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/energy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nrg.fyi/tags/energy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Future energy storage and distribution</title>
-      <link>http://localhost:1313/post/energy-storage/future-energy-storage-and-distribution/</link>
+      <link>https://nrg.fyi/post/energy-storage/future-energy-storage-and-distribution/</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/energy-storage/future-energy-storage-and-distribution/</guid>
+      <guid>https://nrg.fyi/post/energy-storage/future-energy-storage-and-distribution/</guid>
       <description>It is no longer a secret, nor a great insight, that we are in a revolutionary era in terms of the energy industry. Many technologies , greener and cheaper are implemented , a lot of assets we uses are being electrified (EV&amp;rsquo;s , heating solution) and more and energy , in general becomes more of commodity than an production resource.&#xA;With that development, new challenges and limitations arise and create risks for industrial, commercial, and residential uses and processes.</description>
     </item>
     <item>
       <title>Abstracting the complexity of microgrids</title>
-      <link>http://localhost:1313/post/microgrid/abstracting-the-complexity-of-microgrids/</link>
+      <link>https://nrg.fyi/post/microgrid/abstracting-the-complexity-of-microgrids/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/microgrid/abstracting-the-complexity-of-microgrids/</guid>
+      <guid>https://nrg.fyi/post/microgrid/abstracting-the-complexity-of-microgrids/</guid>
       <description>It is not secret anymore, that the way we are using energy cause damage to our planet. In 2021 we expect to consume 40x energy compare to 1900.&#xA;Due to the global warming we will demand 3x energy by 2050 compare today.&#xA;To adjust to the new energy reality, organizations are under growing pressure to participate in the globalization effort reduce emission and avoid global warming. Over the past decades the cost of electricity distribution increased by 50% in the U.</description>
     </item>
   </channel>

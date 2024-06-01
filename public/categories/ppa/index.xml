@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PPA on NRG.fyi  Fuel Your Knowledge</title>
-    <link>http://localhost:1313/categories/ppa/</link>
+    <link>https://nrg.fyi/categories/ppa/</link>
     <description>Recent content in PPA on NRG.fyi  Fuel Your Knowledge</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/ppa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nrg.fyi/categories/ppa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contractual arrangement in Hybrid PPA’s agreements.</title>
-      <link>http://localhost:1313/post/ppa/contractual-arrangement-in-hybrid-ppas-agreements/</link>
+      <link>https://nrg.fyi/post/ppa/contractual-arrangement-in-hybrid-ppas-agreements/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/ppa/contractual-arrangement-in-hybrid-ppas-agreements/</guid>
+      <guid>https://nrg.fyi/post/ppa/contractual-arrangement-in-hybrid-ppas-agreements/</guid>
       <description>There are several ways in which a Hybrid PPA can work. Just like the technical set up of each co-located project, there is no one size fits all when it comes to the commercialization aspect. It always comes down to investment goals, risk appetite and the capabilities when it comes to trading assets of each asset owner.&#xA;Renewable PPA &amp;amp; Storage Capacity agreement (CSA)/Optimization agreement&#xA;In this scenario, the hybrid arrangement comprises two contracts:</description>
     </item>
     <item>
       <title>Components driving PPA price and their risks.</title>
-      <link>http://localhost:1313/post/ppa/components-driving-ppa-price-and-their-risks./</link>
+      <link>https://nrg.fyi/post/ppa/components-driving-ppa-price-and-their-risks./</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/ppa/components-driving-ppa-price-and-their-risks./</guid>
+      <guid>https://nrg.fyi/post/ppa/components-driving-ppa-price-and-their-risks./</guid>
       <description>PPA structures are evolving, and the challenge of Hybrid PPAs lies behind understanding and quantifying the benefits of flexibility, and how it’s reflected in the pricing. The risk profile of the asset is the core determinant of its fair value. And since energy storage changes the risk profile of the generation part, this would need to be reflected in the price.&#xA;To understand what’s driving the Hybrid PAP pricing, it would be better to go through how benchmark PPA prices are modelled, and the risk components driving the fair value of the energy.</description>
     </item>
   </channel>

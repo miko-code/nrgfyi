@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tax Equity on NRG.fyi  Fuel Your Knowledge</title>
-    <link>http://localhost:1313/tags/tax-equity/</link>
+    <link>https://nrg.fyi/tags/tax-equity/</link>
     <description>Recent content in Tax Equity on NRG.fyi  Fuel Your Knowledge</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tax-equity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nrg.fyi/tags/tax-equity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PPA and Net Metering Credit Purchase Agreements</title>
-      <link>http://localhost:1313/post/financing/ppa-and-net-metering-credit-purchase-agreements/</link>
+      <link>https://nrg.fyi/post/financing/ppa-and-net-metering-credit-purchase-agreements/</link>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/financing/ppa-and-net-metering-credit-purchase-agreements/</guid>
+      <guid>https://nrg.fyi/post/financing/ppa-and-net-metering-credit-purchase-agreements/</guid>
       <description>A Commercial &amp;amp; Industrial (C&amp;amp;I) Power Purchase Agreement (PPA) should be a simple contract whereby a host agrees to purchase power from a system owned by a project company – this should include project company’ obligations that naturally relate to providing such a service, like installing the system and a meter and maintaining insurance. A Net Metering Credit Purchase Agreement should look exactly like a PPA, except that instead of purchasing power, the host purchases net metering credits – and the system will not be co-located with the host (so no access rights, installation requirements, or any other provision relating to the site will be included).</description>
     </item>
     <item>
       <title>Tax equity financing structures</title>
-      <link>http://localhost:1313/post/financing/tax-equity-financing-structures/</link>
+      <link>https://nrg.fyi/post/financing/tax-equity-financing-structures/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/financing/tax-equity-financing-structures/</guid>
+      <guid>https://nrg.fyi/post/financing/tax-equity-financing-structures/</guid>
       <description>The two main tax equity structures are sale/leasebacks and partnership/flips. The ITC is a one-time credit against income tax that is based on the amount invested in a facility. The ITC is subject to recapture if, within five years after a facility is “placed in service,” the taxpayer sells or otherwise disposes of the project or stops using it in a manner that qualifies for the credit – like taking it out of service or permitting the PPA off taker to operate and maintain the project.</description>
     </item>
   </channel>

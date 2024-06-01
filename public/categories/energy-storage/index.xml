@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Energy Storage on NRG.fyi  Fuel Your Knowledge</title>
-    <link>http://localhost:1313/categories/energy-storage/</link>
+    <link>https://nrg.fyi/categories/energy-storage/</link>
     <description>Recent content in Energy Storage on NRG.fyi  Fuel Your Knowledge</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/energy-storage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nrg.fyi/categories/energy-storage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main EU Markets for co-located projects</title>
-      <link>http://localhost:1313/post/energy-storage/main-eu-markets-for-co-located-projects/</link>
+      <link>https://nrg.fyi/post/energy-storage/main-eu-markets-for-co-located-projects/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/energy-storage/main-eu-markets-for-co-located-projects/</guid>
+      <guid>https://nrg.fyi/post/energy-storage/main-eu-markets-for-co-located-projects/</guid>
       <description>UK&#xA;The main drivers for implements hybrid projects in the UK are:&#xA;Advanced grid services: The UK comprises the most advanced standalone battery storage market in Europe, having pioneered since 2017 through the proliferation of grid-services. Mature Industry: Due to vast commercialization expertise, the industry is the most welcoming when it comes to innovation such as co-located assets and Hybrid PPAs. The UK is Europe’s largest energy storage market – by far.</description>
     </item>
     <item>
       <title>Future energy storage and distribution</title>
-      <link>http://localhost:1313/post/energy-storage/future-energy-storage-and-distribution/</link>
+      <link>https://nrg.fyi/post/energy-storage/future-energy-storage-and-distribution/</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/energy-storage/future-energy-storage-and-distribution/</guid>
+      <guid>https://nrg.fyi/post/energy-storage/future-energy-storage-and-distribution/</guid>
       <description>It is no longer a secret, nor a great insight, that we are in a revolutionary era in terms of the energy industry. Many technologies , greener and cheaper are implemented , a lot of assets we uses are being electrified (EV&amp;rsquo;s , heating solution) and more and energy , in general becomes more of commodity than an production resource.&#xA;With that development, new challenges and limitations arise and create risks for industrial, commercial, and residential uses and processes.</description>
     </item>
     <item>
       <title>The Value of Energy storage in Europe</title>
-      <link>http://localhost:1313/post/energy-storage/the-value-of-energy-storage-in-europe/</link>
+      <link>https://nrg.fyi/post/energy-storage/the-value-of-energy-storage-in-europe/</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/energy-storage/the-value-of-energy-storage-in-europe/</guid>
+      <guid>https://nrg.fyi/post/energy-storage/the-value-of-energy-storage-in-europe/</guid>
       <description>Energy storage has been deemed one of the missing links of the energy transition for quite some time now. After the vast deployment of standalone storage assets, which tirelessly (and swiftly) respond for duty when the grid needs it, the long-awaited next phase of renewables-plus storage is finally approaching the mainstream!&#xA;The term ‘renewables-plus-storage colocation’ has climbed the ladder in the renewable’s vocabulary, particularly in the merchant renewables sphere. But combining two business models requires the resolution of multiple riddles.</description>
     </item>
     <item>
       <title>ERCOT – Energy storage market</title>
-      <link>http://localhost:1313/post/energy-storage/energy-storage-market/</link>
+      <link>https://nrg.fyi/post/energy-storage/energy-storage-market/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/energy-storage/energy-storage-market/</guid>
+      <guid>https://nrg.fyi/post/energy-storage/energy-storage-market/</guid>
       <description>Background on ERCOT&#xA;ERCOT manages the flow of electric power on the Texas Interconnection that supplies power to more than 26 million Texas customers – representing approximately 90% of the state&amp;rsquo;s electric load. As the independent system operator for the region, ERCOT dispatches more than 680 generating resources to reliably deliver power to customers over more than 46,500 miles of transmission lines. The performance of the markets in ERCOT is essential because those markets coordinate the commitment and dispatch of generating resources, manage flows over the transmission network, and establish prices that guide participants’ decisions in the short and long-term.</description>
     </item>
     <item>
       <title>Battery energy storage use cases and outcome revenues streams</title>
-      <link>http://localhost:1313/post/energy-storage/battery-energy-storage-use-cases/</link>
+      <link>https://nrg.fyi/post/energy-storage/battery-energy-storage-use-cases/</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/energy-storage/battery-energy-storage-use-cases/</guid>
+      <guid>https://nrg.fyi/post/energy-storage/battery-energy-storage-use-cases/</guid>
       <description>Energy storage has been around for a long time. Alessandro Volta invented the battery in 1800. Until recently, Batteries used to provide power at those locations where no grid connection is present, like for starter motors cars, mobile phones, laptops and other electronic devices or for emergency power or computer servers. With the last innovations in the energy storage industry, it is clear that energy storage technology and solutions will become crucial element in our life.</description>
     </item>
   </channel>

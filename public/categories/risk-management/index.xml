@@ -2,24 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Risk Management on NRG.fyi  Fuel Your Knowledge</title>
-    <link>http://localhost:1313/categories/risk-management/</link>
+    <link>https://nrg.fyi/categories/risk-management/</link>
     <description>Recent content in Risk Management on NRG.fyi  Fuel Your Knowledge</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 30 Aug 2017 15:43:48 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/risk-management/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nrg.fyi/categories/risk-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Silent Cyber – What to look for</title>
-      <link>http://localhost:1313/post/draft/</link>
+      <link>https://nrg.fyi/post/risk-managment/silent-cyberwhat-to-look-for/</link>
       <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
-      <guid>http://localhost:1313/post/draft/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Silent Cyber – What to look for</title>
-      <link>http://localhost:1313/post/risk-managment/silent-cyberwhat-to-look-for/</link>
-      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
-      <guid>http://localhost:1313/post/risk-managment/silent-cyberwhat-to-look-for/</guid>
+      <guid>https://nrg.fyi/post/risk-managment/silent-cyberwhat-to-look-for/</guid>
       <description>As the world continues to advance technologically, the number of cyber-attacks has increased at an alarming rate. A study done by Accenture and the Ponemon Institute, which researched 355 companies in 16 different industries, revealed that between 2014-2018 security breaches have increased by 67%, with an 11% increase in 2018 alone. On their third annual state of cyber resilience, Accenture and the Pnemone institute, found that 10.9% of organizations’ IT budget spent on cyber security, only 60% of the business ecosystem is protected by the cybersecurity program and 40% breaches reached out via this tour.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UK on NRG.fyi  Fuel Your Knowledge</title>
-    <link>http://localhost:1313/tags/uk/</link>
+    <link>https://nrg.fyi/tags/uk/</link>
     <description>Recent content in UK on NRG.fyi  Fuel Your Knowledge</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/uk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nrg.fyi/tags/uk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main EU Markets for co-located projects</title>
-      <link>http://localhost:1313/post/energy-storage/main-eu-markets-for-co-located-projects/</link>
+      <link>https://nrg.fyi/post/energy-storage/main-eu-markets-for-co-located-projects/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/energy-storage/main-eu-markets-for-co-located-projects/</guid>
+      <guid>https://nrg.fyi/post/energy-storage/main-eu-markets-for-co-located-projects/</guid>
       <description>UK&#xA;The main drivers for implements hybrid projects in the UK are:&#xA;Advanced grid services: The UK comprises the most advanced standalone battery storage market in Europe, having pioneered since 2017 through the proliferation of grid-services. Mature Industry: Due to vast commercialization expertise, the industry is the most welcoming when it comes to innovation such as co-located assets and Hybrid PPAs. The UK is Europe’s largest energy storage market – by far.</description>
     </item>
   </channel>
